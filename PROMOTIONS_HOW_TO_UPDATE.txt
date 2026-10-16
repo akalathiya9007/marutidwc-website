@@ -1,0 +1,5 @@
+V8 preview includes 2 promotions: promotion-aeroshell.jpg and promotion-tools.jpg.
+To replace an image, replace its JPG file using the SAME filename.
+To add a third promotion, add a new JPG file to the folder and add an entry in the promotions array at the end of index.html.
+Keep all files in the same folder when opening index.html in Safari or uploading to GitHub.
+Confirm advertised stock, specifications, and warranty before publishing.

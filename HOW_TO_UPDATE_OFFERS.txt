@@ -1,0 +1,11 @@
+MARUTI V10 - EASY PHOTO-ONLY OFFERS
+
+1. Unzip the folder. Open index.html in Safari to preview.
+2. To CHANGE an existing promotion: replace promotion-01.jpg or promotion-02.jpg with your new photo, keeping exactly the same filename.
+3. To ADD a promotion: save the new photo as promotion-03.jpg in this same folder. Then promotion-04.jpg, promotion-05.jpg, etc. up to promotion-12.jpg. No HTML editing is required.
+4. Refresh Safari (Command+R). Slides change automatically every 5 seconds, or use arrows/dots.
+5. For live GitHub Pages, upload the new/changed photos to the repository root and commit. File names must match exactly (lowercase .jpg).
+6. To REMOVE a promotion, delete its numbered photo. Gaps are allowed.
+7. Photos display fully without cropping. For best results use clear landscape promotional posters of similar aspect ratios.
+
+NOTE: On some browsers, local file preview can behave differently from the published site.

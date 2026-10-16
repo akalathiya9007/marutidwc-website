@@ -1,0 +1,6 @@
+V9 PREVIEW
+1. Removed duplicated Import/Export/Trading overlay in hero (original hero artwork still has the graphics).
+2. All six View Products links expand details on the same page instead of launching Mail.
+3. Each expanded product category has WhatsApp Enquiry and Email Enquiry links.
+4. Existing design, logo, promotions and catalog retained.
+Open index.html in Safari. Keep all files together.
