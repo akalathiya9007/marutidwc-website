@@ -1,13 +1,16 @@
 'use strict';
 window.MarutiCMS={ready:(async()=>{
  const cfg=window.MARUTI_CMS_CONFIG||{};if(!cfg.url||!cfg.publishableKey)return;
+ const visualMode=window.parent!==window&&new URLSearchParams(location.search).get('cms-preview')==='1'&&new URLSearchParams(location.search).get('edit')==='1';
+ const previewToken=new URLSearchParams(location.search).get('v');
  const page=(location.pathname.split('/').pop()||'index.html').replace(/\.html$/,'');let snapshot;
  if(new URLSearchParams(location.search).get('cms-preview')==='1'&&window.parent!==window){
-  snapshot=await new Promise(resolve=>{const timer=setTimeout(()=>{window.removeEventListener('message',receive);resolve(null);},5000);function receive(e){if(e.origin!==location.origin||e.source!==window.parent||e.data?.type!=='maruti-preview')return;clearTimeout(timer);window.removeEventListener('message',receive);resolve(e.data.snapshot);}window.addEventListener('message',receive);window.parent.postMessage({type:'maruti-preview-ready'},location.origin);});
+  snapshot=await new Promise(resolve=>{const timer=setTimeout(()=>{window.removeEventListener('message',receive);resolve(null);},5000);function receive(e){if(e.origin!==location.origin||e.source!==window.parent||e.data?.type!=='maruti-preview'||e.data?.token!==previewToken)return;clearTimeout(timer);window.removeEventListener('message',receive);resolve(e.data.snapshot);}window.addEventListener('message',receive);window.parent.postMessage({type:'maruti-preview-ready',token:previewToken},location.origin);});
  }else{
   try{const r=await fetch(cfg.url.replace(/\/$/,'')+'/rest/v1/rpc/cms_public_snapshot',{method:'POST',headers:{apikey:cfg.publishableKey,'Content-Type':'application/json'},body:'{}',signal:AbortSignal.timeout(3500),cache:'no-store'});if(r.ok)snapshot=await r.json();}catch{/* The approved original HTML remains usable if the service is unavailable. */}
  }
- if(!snapshot)return;try{window.MarutiContent.apply(document,snapshot,page,cfg.url);}catch(e){console.warn('MARUTI content could not be loaded. Original content retained.',e.message);return;}
+ if(!snapshot)return;let visualNodes;try{if(visualMode)visualNodes=window.MarutiContent.collectTextNodes(document);window.MarutiContent.apply(document,snapshot,page,cfg.url);}catch(e){console.warn('MARUTI content could not be loaded. Original content retained.',e.message);return;}
+ if(visualMode){await new Promise(resolve=>{const script=document.createElement('script');script.src='cms-visual.js?v=1';script.onload=()=>{window.MarutiVisual.attach(document,visualNodes,page);resolve();};script.onerror=()=>{window.parent.postMessage({type:'maruti-visual-error',token:previewToken},location.origin);resolve();};document.head.append(script);});}
  const id=snapshot.analytics?.measurementId;if(!id||window.parent!==window)return;
  // Tracking starts only after an explicit visitor choice; the site remains usable without it.
  function startAnalytics(){window.dataLayer=window.dataLayer||[];window.gtag=function(){dataLayer.push(arguments);};gtag('js',new Date());gtag('config',id);const script=document.createElement('script');script.async=true;script.src='https://www.googletagmanager.com/gtag/js?id='+encodeURIComponent(id);document.head.appendChild(script);document.addEventListener('click',e=>{const a=e.target.closest('a,button');if(!a)return;const h=a.getAttribute('href')||'';const event=h.includes('wa.me/')?'whatsapp_click':h.startsWith('mailto:')?'email_click':a.closest('.catalog-tools')?'catalog_download':a.classList.contains('catalog-entry')?'catalog_open':null;if(event)gtag('event',event,{page_path:location.pathname});});}
