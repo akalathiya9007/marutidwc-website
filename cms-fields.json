@@ -1,0 +1,5781 @@
+{
+  "pages": [
+    {
+      "file": "about.html",
+      "title": "About Us | MARUTI TRADING DWC LLC",
+      "textCount": 60
+    },
+    {
+      "file": "index.html",
+      "title": "MARUTI TRADING DWC LLC | Industrial Supply Worldwide",
+      "textCount": 258
+    },
+    {
+      "file": "product-equipment-maintenance.html",
+      "title": "Equipment & Maintenance | MARUTI TRADING DWC LLC",
+      "textCount": 97
+    },
+    {
+      "file": "product-industrial-product-range.html",
+      "title": "Industrial Product Range | MARUTI TRADING DWC LLC",
+      "textCount": 184
+    },
+    {
+      "file": "product-industrial-tools.html",
+      "title": "Industrial Tools | MARUTI TRADING DWC LLC",
+      "textCount": 147
+    },
+    {
+      "file": "product-industrial-valves.html",
+      "title": "Industrial Valves | MARUTI TRADING DWC LLC",
+      "textCount": 89
+    },
+    {
+      "file": "product-instrumentation-gauges.html",
+      "title": "Instrumentation | MARUTI TRADING DWC LLC",
+      "textCount": 96
+    },
+    {
+      "file": "product-lubricants-chemicals.html",
+      "title": "Lubricants & Chemicals | MARUTI TRADING DWC LLC",
+      "textCount": 85
+    },
+    {
+      "file": "product-pipe-fittings-flanges.html",
+      "title": "Pipe Fittings & Flanges | MARUTI TRADING DWC LLC",
+      "textCount": 130
+    }
+  ],
+  "fields": {
+    "about.t0": {
+      "page": "about.html",
+      "group": "Header / Footer",
+      "original": "BASED IN THE UAE. CONNECTED TO THE WORLD."
+    },
+    "about.t1": {
+      "page": "about.html",
+      "group": "Header / Footer",
+      "original": "Sales1@marutidwc.com"
+    },
+    "about.t2": {
+      "page": "about.html",
+      "group": "Header / Footer",
+      "original": "+971 55 457 7179 ↗"
+    },
+    "about.t3": {
+      "page": "about.html",
+      "group": "Header / Footer",
+      "original": "MARUTI TRADING DWC LLC"
+    },
+    "about.t4": {
+      "page": "about.html",
+      "group": "Header / Footer",
+      "original": "INDUSTRIAL SUPPLY · IMPORT · EXPORT"
+    },
+    "about.t5": {
+      "page": "about.html",
+      "group": "Header / Footer",
+      "original": "☰"
+    },
+    "about.t6": {
+      "page": "about.html",
+      "group": "Header / Footer",
+      "original": "Home"
+    },
+    "about.t7": {
+      "page": "about.html",
+      "group": "Header / Footer",
+      "original": "About us"
+    },
+    "about.t8": {
+      "page": "about.html",
+      "group": "Header / Footer",
+      "original": "Products"
+    },
+    "about.t9": {
+      "page": "about.html",
+      "group": "Header / Footer",
+      "original": "Promotions"
+    },
+    "about.t10": {
+      "page": "about.html",
+      "group": "Header / Footer",
+      "original": "Careers"
+    },
+    "about.t11": {
+      "page": "about.html",
+      "group": "Header / Footer",
+      "original": "Contact"
+    },
+    "about.t12": {
+      "page": "about.html",
+      "group": "Header / Footer",
+      "original": "Get a quote ↗"
+    },
+    "about.t13": {
+      "page": "about.html",
+      "group": "inner-hero",
+      "original": "Home / About us"
+    },
+    "about.t14": {
+      "page": "about.html",
+      "group": "inner-hero",
+      "original": "ABOUT MARUTI"
+    },
+    "about.t15": {
+      "page": "about.html",
+      "group": "inner-hero",
+      "original": "One partner."
+    },
+    "about.t16": {
+      "page": "about.html",
+      "group": "inner-hero",
+      "original": "A world of "
+    },
+    "about.t17": {
+      "page": "about.html",
+      "group": "inner-hero",
+      "original": "possibilities."
+    },
+    "about.t18": {
+      "page": "about.html",
+      "group": "inner-hero",
+      "original": "Industrial supply, import and export."
+    },
+    "about.t19": {
+      "page": "about.html",
+      "group": "inner-hero",
+      "original": "Connecting the UAE with industry worldwide."
+    },
+    "about.t20": {
+      "page": "about.html",
+      "group": "company-story",
+      "original": "THE MARUTI APPROACH"
+    },
+    "about.t21": {
+      "page": "about.html",
+      "group": "company-story",
+      "original": "The right products."
+    },
+    "about.t22": {
+      "page": "about.html",
+      "group": "company-story",
+      "original": "The right connection."
+    },
+    "about.t23": {
+      "page": "about.html",
+      "group": "company-story",
+      "original": "MARUTI TRADING DWC LLC is engaged in the supply and distribution of industrial products that support a wide range of industries and applications."
+    },
+    "about.t24": {
+      "page": "about.html",
+      "group": "company-story",
+      "original": "Our focus is on dependable products, consistent quality and responsive service to help our customers meet their operational needs efficiently."
+    },
+    "about.t25": {
+      "page": "about.html",
+      "group": "company-story",
+      "original": "We work with suppliers and customers to understand each requirement and support industrial supply in the UAE and international markets."
+    },
+    "about.t26": {
+      "page": "about.html",
+      "group": "company-story",
+      "original": "Explore our product range ↗"
+    },
+    "about.t27": {
+      "page": "about.html",
+      "group": "purpose",
+      "original": "OUR PURPOSE"
+    },
+    "about.t28": {
+      "page": "about.html",
+      "group": "purpose",
+      "original": "Driven by trust."
+    },
+    "about.t29": {
+      "page": "about.html",
+      "group": "purpose",
+      "original": "Focused on your industry."
+    },
+    "about.t30": {
+      "page": "about.html",
+      "group": "purpose",
+      "original": "Integrity, commitment, quality focus and partnership guide the way we work."
+    },
+    "about.t31": {
+      "page": "about.html",
+      "group": "purpose",
+      "original": "01 / OUR MISSION"
+    },
+    "about.t32": {
+      "page": "about.html",
+      "group": "purpose",
+      "original": "Connect industry with dependable supply."
+    },
+    "about.t33": {
+      "page": "about.html",
+      "group": "purpose",
+      "original": "To support our customers with the right industrial products, responsive service and practical sourcing solutions across the UAE and international markets."
+    },
+    "about.t34": {
+      "page": "about.html",
+      "group": "purpose",
+      "original": "02 / OUR VISION"
+    },
+    "about.t35": {
+      "page": "about.html",
+      "group": "purpose",
+      "original": "A trusted supply partner. Worldwide."
+    },
+    "about.t36": {
+      "page": "about.html",
+      "group": "purpose",
+      "original": "To build lasting partnerships through consistent product quality, honest communication and a supply network that grows with our customers’ needs."
+    },
+    "about.t37": {
+      "page": "about.html",
+      "group": "values-section",
+      "original": "THE WAY WE WORK"
+    },
+    "about.t38": {
+      "page": "about.html",
+      "group": "values-section",
+      "original": "Our "
+    },
+    "about.t39": {
+      "page": "about.html",
+      "group": "values-section",
+      "original": "values."
+    },
+    "about.t40": {
+      "page": "about.html",
+      "group": "values-section",
+      "original": "01"
+    },
+    "about.t41": {
+      "page": "about.html",
+      "group": "values-section",
+      "original": "Integrity"
+    },
+    "about.t42": {
+      "page": "about.html",
+      "group": "values-section",
+      "original": "We conduct our business with honesty, transparency and ethical practices."
+    },
+    "about.t43": {
+      "page": "about.html",
+      "group": "values-section",
+      "original": "02"
+    },
+    "about.t44": {
+      "page": "about.html",
+      "group": "values-section",
+      "original": "Commitment"
+    },
+    "about.t45": {
+      "page": "about.html",
+      "group": "values-section",
+      "original": "We are committed to providing products and services that our customers can rely on."
+    },
+    "about.t46": {
+      "page": "about.html",
+      "group": "values-section",
+      "original": "03"
+    },
+    "about.t47": {
+      "page": "about.html",
+      "group": "values-section",
+      "original": "Quality focus"
+    },
+    "about.t48": {
+      "page": "about.html",
+      "group": "values-section",
+      "original": "We focus on consistent quality and continuous improvement in everything we do."
+    },
+    "about.t49": {
+      "page": "about.html",
+      "group": "values-section",
+      "original": "04"
+    },
+    "about.t50": {
+      "page": "about.html",
+      "group": "values-section",
+      "original": "Partnership"
+    },
+    "about.t51": {
+      "page": "about.html",
+      "group": "values-section",
+      "original": "We build long-term relationships based on trust, respect and mutual growth."
+    },
+    "about.t52": {
+      "page": "about.html",
+      "group": "detail-cta",
+      "original": "LET’S GET TO WORK"
+    },
+    "about.t53": {
+      "page": "about.html",
+      "group": "detail-cta",
+      "original": "Tell us what your industry needs."
+    },
+    "about.t54": {
+      "page": "about.html",
+      "group": "detail-cta",
+      "original": "Send requirement on WhatsApp ↗"
+    },
+    "about.t55": {
+      "page": "about.html",
+      "group": "detail-cta",
+      "original": "Email your requirement ↗"
+    },
+    "about.t56": {
+      "page": "about.html",
+      "group": "Header / Footer",
+      "original": "MARUTI TRADING DWC LLC"
+    },
+    "about.t57": {
+      "page": "about.html",
+      "group": "Header / Footer",
+      "original": "INDUSTRIAL SUPPLY · IMPORT · EXPORT"
+    },
+    "about.t58": {
+      "page": "about.html",
+      "group": "Header / Footer",
+      "original": "© 2026 MARUTI TRADING DWC LLC. All rights reserved."
+    },
+    "about.t59": {
+      "page": "about.html",
+      "group": "Header / Footer",
+      "original": "Back to home ↗"
+    },
+    "index.t0": {
+      "page": "index.html",
+      "group": "Header / Footer",
+      "original": "BASED IN THE UAE. CONNECTED TO THE WORLD."
+    },
+    "index.t1": {
+      "page": "index.html",
+      "group": "Header / Footer",
+      "original": "Sales1@marutidwc.com"
+    },
+    "index.t2": {
+      "page": "index.html",
+      "group": "Header / Footer",
+      "original": "+971 55 457 7179 ↗"
+    },
+    "index.t3": {
+      "page": "index.html",
+      "group": "Header / Footer",
+      "original": "MARUTI TRADING DWC LLC"
+    },
+    "index.t4": {
+      "page": "index.html",
+      "group": "Header / Footer",
+      "original": "INDUSTRIAL SUPPLY · IMPORT · EXPORT"
+    },
+    "index.t5": {
+      "page": "index.html",
+      "group": "Header / Footer",
+      "original": "☰"
+    },
+    "index.t6": {
+      "page": "index.html",
+      "group": "Header / Footer",
+      "original": "Home"
+    },
+    "index.t7": {
+      "page": "index.html",
+      "group": "Header / Footer",
+      "original": "About us"
+    },
+    "index.t8": {
+      "page": "index.html",
+      "group": "Header / Footer",
+      "original": "Products"
+    },
+    "index.t9": {
+      "page": "index.html",
+      "group": "Header / Footer",
+      "original": "Promotions"
+    },
+    "index.t10": {
+      "page": "index.html",
+      "group": "Header / Footer",
+      "original": "Careers"
+    },
+    "index.t11": {
+      "page": "index.html",
+      "group": "Header / Footer",
+      "original": "Contact"
+    },
+    "index.t12": {
+      "page": "index.html",
+      "group": "Header / Footer",
+      "original": "Get a quote ↗"
+    },
+    "index.t13": {
+      "page": "index.html",
+      "group": "home",
+      "original": " INDUSTRIAL SUPPLY · IMPORT · EXPORT"
+    },
+    "index.t14": {
+      "page": "index.html",
+      "group": "home",
+      "original": "Your industry."
+    },
+    "index.t15": {
+      "page": "index.html",
+      "group": "home",
+      "original": "Our supply."
+    },
+    "index.t16": {
+      "page": "index.html",
+      "group": "home",
+      "original": "Worldwide."
+    },
+    "index.t17": {
+      "page": "index.html",
+      "group": "home",
+      "original": "Industrial Supply in the UAE & Worldwide"
+    },
+    "index.t18": {
+      "page": "index.html",
+      "group": "home",
+      "original": "Valves, fittings, tools and essential industrial supplies."
+    },
+    "index.t19": {
+      "page": "index.html",
+      "group": "home",
+      "original": "From local requirements to international sourcing."
+    },
+    "index.t20": {
+      "page": "index.html",
+      "group": "home",
+      "original": "Explore our products "
+    },
+    "index.t21": {
+      "page": "index.html",
+      "group": "home",
+      "original": "↗"
+    },
+    "index.t22": {
+      "page": "index.html",
+      "group": "home",
+      "original": "LOCAL EXPERTISE. GLOBAL REACH."
+    },
+    "index.t23": {
+      "page": "index.html",
+      "group": "home",
+      "original": "Discover MARUTI ↗"
+    },
+    "index.t24": {
+      "page": "index.html",
+      "group": "Header / Footer",
+      "original": "01"
+    },
+    "index.t25": {
+      "page": "index.html",
+      "group": "Page",
+      "original": "INDUSTRIAL SUPPLY"
+    },
+    "index.t26": {
+      "page": "index.html",
+      "group": "Page",
+      "original": "Industrial supply across the UAE"
+    },
+    "index.t27": {
+      "page": "index.html",
+      "group": "Header / Footer",
+      "original": "↗"
+    },
+    "index.t28": {
+      "page": "index.html",
+      "group": "Header / Footer",
+      "original": "02"
+    },
+    "index.t29": {
+      "page": "index.html",
+      "group": "Page",
+      "original": "IMPORT"
+    },
+    "index.t30": {
+      "page": "index.html",
+      "group": "Page",
+      "original": "International sourcing enquiries"
+    },
+    "index.t31": {
+      "page": "index.html",
+      "group": "Header / Footer",
+      "original": "↗"
+    },
+    "index.t32": {
+      "page": "index.html",
+      "group": "Header / Footer",
+      "original": "03"
+    },
+    "index.t33": {
+      "page": "index.html",
+      "group": "Page",
+      "original": "EXPORT"
+    },
+    "index.t34": {
+      "page": "index.html",
+      "group": "Page",
+      "original": "Connecting supply across borders"
+    },
+    "index.t35": {
+      "page": "index.html",
+      "group": "Header / Footer",
+      "original": "↗"
+    },
+    "index.t36": {
+      "page": "index.html",
+      "group": "products",
+      "original": "BUILT AROUND YOUR REQUIREMENTS"
+    },
+    "index.t37": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Explore our "
+    },
+    "index.t38": {
+      "page": "index.html",
+      "group": "products",
+      "original": "product range."
+    },
+    "index.t39": {
+      "page": "index.html",
+      "group": "products",
+      "original": "View / download full catalog ↗"
+    },
+    "index.t40": {
+      "page": "index.html",
+      "group": "products",
+      "original": "MARUTI TRADING DWC LLC"
+    },
+    "index.t41": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Product Catalog"
+    },
+    "index.t42": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Download PDF ↓"
+    },
+    "index.t43": {
+      "page": "index.html",
+      "group": "products",
+      "original": "×"
+    },
+    "index.t44": {
+      "page": "index.html",
+      "group": "products",
+      "original": "1"
+    },
+    "index.t45": {
+      "page": "index.html",
+      "group": "products",
+      "original": "2"
+    },
+    "index.t46": {
+      "page": "index.html",
+      "group": "products",
+      "original": "3"
+    },
+    "index.t47": {
+      "page": "index.html",
+      "group": "products",
+      "original": "4"
+    },
+    "index.t48": {
+      "page": "index.html",
+      "group": "products",
+      "original": "5"
+    },
+    "index.t49": {
+      "page": "index.html",
+      "group": "products",
+      "original": "6"
+    },
+    "index.t50": {
+      "page": "index.html",
+      "group": "products",
+      "original": "7"
+    },
+    "index.t51": {
+      "page": "index.html",
+      "group": "products",
+      "original": "8"
+    },
+    "index.t52": {
+      "page": "index.html",
+      "group": "products",
+      "original": "9"
+    },
+    "index.t53": {
+      "page": "index.html",
+      "group": "products",
+      "original": "10"
+    },
+    "index.t54": {
+      "page": "index.html",
+      "group": "products",
+      "original": "11"
+    },
+    "index.t55": {
+      "page": "index.html",
+      "group": "products",
+      "original": "12"
+    },
+    "index.t56": {
+      "page": "index.html",
+      "group": "products",
+      "original": "13"
+    },
+    "index.t57": {
+      "page": "index.html",
+      "group": "products",
+      "original": "14"
+    },
+    "index.t58": {
+      "page": "index.html",
+      "group": "products",
+      "original": "15"
+    },
+    "index.t59": {
+      "page": "index.html",
+      "group": "products",
+      "original": "16"
+    },
+    "index.t60": {
+      "page": "index.html",
+      "group": "products",
+      "original": "17"
+    },
+    "index.t61": {
+      "page": "index.html",
+      "group": "products",
+      "original": "18"
+    },
+    "index.t62": {
+      "page": "index.html",
+      "group": "products",
+      "original": "19"
+    },
+    "index.t63": {
+      "page": "index.html",
+      "group": "products",
+      "original": "20"
+    },
+    "index.t64": {
+      "page": "index.html",
+      "group": "products",
+      "original": "21"
+    },
+    "index.t65": {
+      "page": "index.html",
+      "group": "products",
+      "original": "22"
+    },
+    "index.t66": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Zoom to read · Uncheck to show the whole A4 page"
+    },
+    "index.t67": {
+      "page": "index.html",
+      "group": "products",
+      "original": "1 / 22"
+    },
+    "index.t68": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Next →"
+    },
+    "index.t69": {
+      "page": "index.html",
+      "group": "products",
+      "original": "← Previous"
+    },
+    "index.t70": {
+      "page": "index.html",
+      "group": "products",
+      "original": "2 / 22"
+    },
+    "index.t71": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Next →"
+    },
+    "index.t72": {
+      "page": "index.html",
+      "group": "products",
+      "original": "← Previous"
+    },
+    "index.t73": {
+      "page": "index.html",
+      "group": "products",
+      "original": "3 / 22"
+    },
+    "index.t74": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Next →"
+    },
+    "index.t75": {
+      "page": "index.html",
+      "group": "products",
+      "original": "← Previous"
+    },
+    "index.t76": {
+      "page": "index.html",
+      "group": "products",
+      "original": "4 / 22"
+    },
+    "index.t77": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Next →"
+    },
+    "index.t78": {
+      "page": "index.html",
+      "group": "products",
+      "original": "← Previous"
+    },
+    "index.t79": {
+      "page": "index.html",
+      "group": "products",
+      "original": "5 / 22"
+    },
+    "index.t80": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Next →"
+    },
+    "index.t81": {
+      "page": "index.html",
+      "group": "products",
+      "original": "← Previous"
+    },
+    "index.t82": {
+      "page": "index.html",
+      "group": "products",
+      "original": "6 / 22"
+    },
+    "index.t83": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Next →"
+    },
+    "index.t84": {
+      "page": "index.html",
+      "group": "products",
+      "original": "← Previous"
+    },
+    "index.t85": {
+      "page": "index.html",
+      "group": "products",
+      "original": "7 / 22"
+    },
+    "index.t86": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Next →"
+    },
+    "index.t87": {
+      "page": "index.html",
+      "group": "products",
+      "original": "← Previous"
+    },
+    "index.t88": {
+      "page": "index.html",
+      "group": "products",
+      "original": "8 / 22"
+    },
+    "index.t89": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Next →"
+    },
+    "index.t90": {
+      "page": "index.html",
+      "group": "products",
+      "original": "← Previous"
+    },
+    "index.t91": {
+      "page": "index.html",
+      "group": "products",
+      "original": "9 / 22"
+    },
+    "index.t92": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Next →"
+    },
+    "index.t93": {
+      "page": "index.html",
+      "group": "products",
+      "original": "← Previous"
+    },
+    "index.t94": {
+      "page": "index.html",
+      "group": "products",
+      "original": "10 / 22"
+    },
+    "index.t95": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Next →"
+    },
+    "index.t96": {
+      "page": "index.html",
+      "group": "products",
+      "original": "← Previous"
+    },
+    "index.t97": {
+      "page": "index.html",
+      "group": "products",
+      "original": "11 / 22"
+    },
+    "index.t98": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Next →"
+    },
+    "index.t99": {
+      "page": "index.html",
+      "group": "products",
+      "original": "← Previous"
+    },
+    "index.t100": {
+      "page": "index.html",
+      "group": "products",
+      "original": "12 / 22"
+    },
+    "index.t101": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Next →"
+    },
+    "index.t102": {
+      "page": "index.html",
+      "group": "products",
+      "original": "← Previous"
+    },
+    "index.t103": {
+      "page": "index.html",
+      "group": "products",
+      "original": "13 / 22"
+    },
+    "index.t104": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Next →"
+    },
+    "index.t105": {
+      "page": "index.html",
+      "group": "products",
+      "original": "← Previous"
+    },
+    "index.t106": {
+      "page": "index.html",
+      "group": "products",
+      "original": "14 / 22"
+    },
+    "index.t107": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Next →"
+    },
+    "index.t108": {
+      "page": "index.html",
+      "group": "products",
+      "original": "← Previous"
+    },
+    "index.t109": {
+      "page": "index.html",
+      "group": "products",
+      "original": "15 / 22"
+    },
+    "index.t110": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Next →"
+    },
+    "index.t111": {
+      "page": "index.html",
+      "group": "products",
+      "original": "← Previous"
+    },
+    "index.t112": {
+      "page": "index.html",
+      "group": "products",
+      "original": "16 / 22"
+    },
+    "index.t113": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Next →"
+    },
+    "index.t114": {
+      "page": "index.html",
+      "group": "products",
+      "original": "← Previous"
+    },
+    "index.t115": {
+      "page": "index.html",
+      "group": "products",
+      "original": "17 / 22"
+    },
+    "index.t116": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Next →"
+    },
+    "index.t117": {
+      "page": "index.html",
+      "group": "products",
+      "original": "← Previous"
+    },
+    "index.t118": {
+      "page": "index.html",
+      "group": "products",
+      "original": "18 / 22"
+    },
+    "index.t119": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Next →"
+    },
+    "index.t120": {
+      "page": "index.html",
+      "group": "products",
+      "original": "← Previous"
+    },
+    "index.t121": {
+      "page": "index.html",
+      "group": "products",
+      "original": "19 / 22"
+    },
+    "index.t122": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Next →"
+    },
+    "index.t123": {
+      "page": "index.html",
+      "group": "products",
+      "original": "← Previous"
+    },
+    "index.t124": {
+      "page": "index.html",
+      "group": "products",
+      "original": "20 / 22"
+    },
+    "index.t125": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Next →"
+    },
+    "index.t126": {
+      "page": "index.html",
+      "group": "products",
+      "original": "← Previous"
+    },
+    "index.t127": {
+      "page": "index.html",
+      "group": "products",
+      "original": "21 / 22"
+    },
+    "index.t128": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Next →"
+    },
+    "index.t129": {
+      "page": "index.html",
+      "group": "products",
+      "original": "← Previous"
+    },
+    "index.t130": {
+      "page": "index.html",
+      "group": "products",
+      "original": "22 / 22"
+    },
+    "index.t131": {
+      "page": "index.html",
+      "group": "products",
+      "original": "All Products"
+    },
+    "index.t132": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Valves & Fittings"
+    },
+    "index.t133": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Tools & Equipment"
+    },
+    "index.t134": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Lubricants"
+    },
+    "index.t135": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Complete Range"
+    },
+    "index.t136": {
+      "page": "index.html",
+      "group": "products",
+      "original": "01"
+    },
+    "index.t137": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Flow control. Built for industry."
+    },
+    "index.t138": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Industrial Valves"
+    },
+    "index.t139": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Gate, globe, ball & check valves · Butterfly, safety & control valves · Stainless steel, carbon steel & alloy"
+    },
+    "index.t140": {
+      "page": "index.html",
+      "group": "products",
+      "original": "View products & details "
+    },
+    "index.t141": {
+      "page": "index.html",
+      "group": "products",
+      "original": "↗"
+    },
+    "index.t142": {
+      "page": "index.html",
+      "group": "products",
+      "original": "02"
+    },
+    "index.t143": {
+      "page": "index.html",
+      "group": "products",
+      "original": "The right connection for every project."
+    },
+    "index.t144": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Pipe Fittings & Flanges"
+    },
+    "index.t145": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Butt weld, socket weld & threaded · Elbows, tees, reducers & couplings · WN, SO & blind flanges"
+    },
+    "index.t146": {
+      "page": "index.html",
+      "group": "products",
+      "original": "View products & details "
+    },
+    "index.t147": {
+      "page": "index.html",
+      "group": "products",
+      "original": "↗"
+    },
+    "index.t148": {
+      "page": "index.html",
+      "group": "products",
+      "original": "03"
+    },
+    "index.t149": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Measure. Monitor. Control."
+    },
+    "index.t150": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Instrumentation"
+    },
+    "index.t151": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Pressure gauges & transmitters · Temperature gauges & sensors · Level, flow & control instruments"
+    },
+    "index.t152": {
+      "page": "index.html",
+      "group": "products",
+      "original": "View products & details "
+    },
+    "index.t153": {
+      "page": "index.html",
+      "group": "products",
+      "original": "↗"
+    },
+    "index.t154": {
+      "page": "index.html",
+      "group": "products",
+      "original": "04"
+    },
+    "index.t155": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Equip your team for the task."
+    },
+    "index.t156": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Industrial Tools"
+    },
+    "index.t157": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Hand tools & power tools · Cutting, drilling & grinding · Industrial brands"
+    },
+    "index.t158": {
+      "page": "index.html",
+      "group": "products",
+      "original": "View products & details "
+    },
+    "index.t159": {
+      "page": "index.html",
+      "group": "products",
+      "original": "↗"
+    },
+    "index.t160": {
+      "page": "index.html",
+      "group": "products",
+      "original": "05"
+    },
+    "index.t161": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Keep your operations moving."
+    },
+    "index.t162": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Equipment & Maintenance"
+    },
+    "index.t163": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Pumps, motors & compressors · HVAC, electrical & mechanical · Maintenance & project supplies"
+    },
+    "index.t164": {
+      "page": "index.html",
+      "group": "products",
+      "original": "View products & details "
+    },
+    "index.t165": {
+      "page": "index.html",
+      "group": "products",
+      "original": "↗"
+    },
+    "index.t166": {
+      "page": "index.html",
+      "group": "products",
+      "original": "06"
+    },
+    "index.t167": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Care for the equipment that matters."
+    },
+    "index.t168": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Lubricants & Chemicals"
+    },
+    "index.t169": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Industrial lubricants & greases · Hydraulic, gear & compressor oils · Specialty oils & chemicals"
+    },
+    "index.t170": {
+      "page": "index.html",
+      "group": "products",
+      "original": "View products & details "
+    },
+    "index.t171": {
+      "page": "index.html",
+      "group": "products",
+      "original": "↗"
+    },
+    "index.t172": {
+      "page": "index.html",
+      "group": "products",
+      "original": "EXPLORE THE COMPLETE RANGE ↗"
+    },
+    "index.t173": {
+      "page": "index.html",
+      "group": "products",
+      "original": "07 / ONE SUPPLIER. COMPLETE SOLUTIONS."
+    },
+    "index.t174": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Industrial Product Range"
+    },
+    "index.t175": {
+      "page": "index.html",
+      "group": "products",
+      "original": "More essentials. More applications. Explore the wider range of industrial and workplace supplies across our supply categories."
+    },
+    "index.t176": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Lubricants"
+    },
+    "index.t177": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Hand tools"
+    },
+    "index.t178": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Safety products"
+    },
+    "index.t179": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Abrasives"
+    },
+    "index.t180": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Adhesives & sealants"
+    },
+    "index.t181": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Pneumatics"
+    },
+    "index.t182": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Valves & fittings"
+    },
+    "index.t183": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Bearings & power transmission"
+    },
+    "index.t184": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Fasteners & hardware"
+    },
+    "index.t185": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Packaging & consumables"
+    },
+    "index.t186": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Cleaning & maintenance"
+    },
+    "index.t187": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Measuring & instruments"
+    },
+    "index.t188": {
+      "page": "index.html",
+      "group": "products",
+      "original": "Stationery & office supplies"
+    },
+    "index.t189": {
+      "page": "index.html",
+      "group": "products",
+      "original": "View product range ↗"
+    },
+    "index.t190": {
+      "page": "index.html",
+      "group": "how-to-order",
+      "original": "FROM REQUIREMENT TO QUOTATION"
+    },
+    "index.t191": {
+      "page": "index.html",
+      "group": "how-to-order",
+      "original": "Let’s make sourcing "
+    },
+    "index.t192": {
+      "page": "index.html",
+      "group": "how-to-order",
+      "original": "simpler."
+    },
+    "index.t193": {
+      "page": "index.html",
+      "group": "how-to-order",
+      "original": "Share your requirements ↗"
+    },
+    "index.t194": {
+      "page": "index.html",
+      "group": "how-to-order",
+      "original": "01"
+    },
+    "index.t195": {
+      "page": "index.html",
+      "group": "how-to-order",
+      "original": "Share your requirements"
+    },
+    "index.t196": {
+      "page": "index.html",
+      "group": "how-to-order",
+      "original": "Send product names, specifications, quantities and delivery location by WhatsApp or email."
+    },
+    "index.t197": {
+      "page": "index.html",
+      "group": "how-to-order",
+      "original": "02"
+    },
+    "index.t198": {
+      "page": "index.html",
+      "group": "how-to-order",
+      "original": "Discuss your options"
+    },
+    "index.t199": {
+      "page": "index.html",
+      "group": "how-to-order",
+      "original": "Our team will review your enquiry and confirm suitable products, availability and quotation details."
+    },
+    "index.t200": {
+      "page": "index.html",
+      "group": "how-to-order",
+      "original": "03"
+    },
+    "index.t201": {
+      "page": "index.html",
+      "group": "how-to-order",
+      "original": "Confirm your order"
+    },
+    "index.t202": {
+      "page": "index.html",
+      "group": "how-to-order",
+      "original": "Review the quotation and agree on order and delivery arrangements with our team."
+    },
+    "index.t203": {
+      "page": "index.html",
+      "group": "promotions",
+      "original": "IN THE SPOTLIGHT"
+    },
+    "index.t204": {
+      "page": "index.html",
+      "group": "promotions",
+      "original": "Latest "
+    },
+    "index.t205": {
+      "page": "index.html",
+      "group": "promotions",
+      "original": "promotions."
+    },
+    "index.t206": {
+      "page": "index.html",
+      "group": "promotions",
+      "original": "←"
+    },
+    "index.t207": {
+      "page": "index.html",
+      "group": "promotions",
+      "original": "01 / 03"
+    },
+    "index.t208": {
+      "page": "index.html",
+      "group": "promotions",
+      "original": "→"
+    },
+    "index.t209": {
+      "page": "index.html",
+      "group": "promotions",
+      "original": "Ⅱ"
+    },
+    "index.t210": {
+      "page": "index.html",
+      "group": "promotions",
+      "original": "Specifications, stock availability and offers are subject to sales confirmation."
+    },
+    "index.t211": {
+      "page": "index.html",
+      "group": "careers",
+      "original": "CAREERS AT MARUTI"
+    },
+    "index.t212": {
+      "page": "index.html",
+      "group": "careers",
+      "original": "Bring your skills."
+    },
+    "index.t213": {
+      "page": "index.html",
+      "group": "careers",
+      "original": "Build what’s next."
+    },
+    "index.t214": {
+      "page": "index.html",
+      "group": "careers",
+      "original": "Interested in joining our team? Introduce yourself and share your CV for consideration."
+    },
+    "index.t215": {
+      "page": "index.html",
+      "group": "careers",
+      "original": "↗"
+    },
+    "index.t216": {
+      "page": "index.html",
+      "group": "careers",
+      "original": "Tell us where you fit."
+    },
+    "index.t217": {
+      "page": "index.html",
+      "group": "careers",
+      "original": "Share your preferred role and experience. Applications are welcome for consideration; submitting a CV does not confirm an open vacancy."
+    },
+    "index.t218": {
+      "page": "index.html",
+      "group": "careers",
+      "original": "HOW TO APPLY"
+    },
+    "index.t219": {
+      "page": "index.html",
+      "group": "careers",
+      "original": "Send us your CV."
+    },
+    "index.t220": {
+      "page": "index.html",
+      "group": "careers",
+      "original": "Email your application directly to our team with your CV attached as a PDF."
+    },
+    "index.t221": {
+      "page": "index.html",
+      "group": "careers",
+      "original": "01"
+    },
+    "index.t222": {
+      "page": "index.html",
+      "group": "careers",
+      "original": "Prepare your CV"
+    },
+    "index.t223": {
+      "page": "index.html",
+      "group": "careers",
+      "original": "Save your latest CV as a PDF file."
+    },
+    "index.t224": {
+      "page": "index.html",
+      "group": "careers",
+      "original": "02"
+    },
+    "index.t225": {
+      "page": "index.html",
+      "group": "careers",
+      "original": "Write your application"
+    },
+    "index.t226": {
+      "page": "index.html",
+      "group": "careers",
+      "original": "Include your full name, phone number and the position you are interested in."
+    },
+    "index.t227": {
+      "page": "index.html",
+      "group": "careers",
+      "original": "03"
+    },
+    "index.t228": {
+      "page": "index.html",
+      "group": "careers",
+      "original": "Attach the PDF and send"
+    },
+    "index.t229": {
+      "page": "index.html",
+      "group": "careers",
+      "original": "Attach your CV in your email app and send it to "
+    },
+    "index.t230": {
+      "page": "index.html",
+      "group": "careers",
+      "original": "Sales1@marutidwc.com"
+    },
+    "index.t231": {
+      "page": "index.html",
+      "group": "careers",
+      "original": "."
+    },
+    "index.t232": {
+      "page": "index.html",
+      "group": "careers",
+      "original": "Email your CV ↗"
+    },
+    "index.t233": {
+      "page": "index.html",
+      "group": "careers",
+      "original": "Remember to attach your PDF CV before pressing Send in your email app."
+    },
+    "index.t234": {
+      "page": "index.html",
+      "group": "contact",
+      "original": "LET’S GET TO WORK"
+    },
+    "index.t235": {
+      "page": "index.html",
+      "group": "contact",
+      "original": "Your next project"
+    },
+    "index.t236": {
+      "page": "index.html",
+      "group": "contact",
+      "original": "starts with a "
+    },
+    "index.t237": {
+      "page": "index.html",
+      "group": "contact",
+      "original": "conversation."
+    },
+    "index.t238": {
+      "page": "index.html",
+      "group": "contact",
+      "original": "Send your product list, specifications or sourcing enquiry."
+    },
+    "index.t239": {
+      "page": "index.html",
+      "group": "contact",
+      "original": "Our team will help you take the next step."
+    },
+    "index.t240": {
+      "page": "index.html",
+      "group": "contact",
+      "original": "Chat on WhatsApp "
+    },
+    "index.t241": {
+      "page": "index.html",
+      "group": "contact",
+      "original": "↗"
+    },
+    "index.t242": {
+      "page": "index.html",
+      "group": "contact",
+      "original": "EMAIL US"
+    },
+    "index.t243": {
+      "page": "index.html",
+      "group": "contact",
+      "original": "Sales1@marutidwc.com ↗"
+    },
+    "index.t244": {
+      "page": "index.html",
+      "group": "contact",
+      "original": "Marutidwc@gmail.com"
+    },
+    "index.t245": {
+      "page": "index.html",
+      "group": "contact",
+      "original": "CALL OUR TEAM"
+    },
+    "index.t246": {
+      "page": "index.html",
+      "group": "contact",
+      "original": "+971 55 457 7179 ↗"
+    },
+    "index.t247": {
+      "page": "index.html",
+      "group": "contact",
+      "original": "VISIT US"
+    },
+    "index.t248": {
+      "page": "index.html",
+      "group": "contact",
+      "original": "Business Centre 3, Floor Building A3,"
+    },
+    "index.t249": {
+      "page": "index.html",
+      "group": "contact",
+      "original": "Business Park Dubai, United Arab Emirates."
+    },
+    "index.t250": {
+      "page": "index.html",
+      "group": "contact",
+      "original": "Get Directions ↗"
+    },
+    "index.t251": {
+      "page": "index.html",
+      "group": "contact",
+      "original": "WORKING HOURS"
+    },
+    "index.t252": {
+      "page": "index.html",
+      "group": "contact",
+      "original": "Monday–Saturday · 9:00 AM–6:00 PM"
+    },
+    "index.t253": {
+      "page": "index.html",
+      "group": "contact",
+      "original": "Sunday · Closed"
+    },
+    "index.t254": {
+      "page": "index.html",
+      "group": "Header / Footer",
+      "original": "MARUTI TRADING DWC LLC"
+    },
+    "index.t255": {
+      "page": "index.html",
+      "group": "Header / Footer",
+      "original": "INDUSTRIAL SUPPLY · IMPORT · EXPORT"
+    },
+    "index.t256": {
+      "page": "index.html",
+      "group": "Header / Footer",
+      "original": "© 2026 MARUTI TRADING DWC LLC. All rights reserved."
+    },
+    "index.t257": {
+      "page": "index.html",
+      "group": "Header / Footer",
+      "original": "Back to top ↑"
+    },
+    "product-equipment-maintenance.t0": {
+      "page": "product-equipment-maintenance.html",
+      "group": "Header / Footer",
+      "original": "BASED IN THE UAE. CONNECTED TO THE WORLD."
+    },
+    "product-equipment-maintenance.t1": {
+      "page": "product-equipment-maintenance.html",
+      "group": "Header / Footer",
+      "original": "Sales1@marutidwc.com"
+    },
+    "product-equipment-maintenance.t2": {
+      "page": "product-equipment-maintenance.html",
+      "group": "Header / Footer",
+      "original": "+971 55 457 7179 ↗"
+    },
+    "product-equipment-maintenance.t3": {
+      "page": "product-equipment-maintenance.html",
+      "group": "Header / Footer",
+      "original": "MARUTI TRADING DWC LLC"
+    },
+    "product-equipment-maintenance.t4": {
+      "page": "product-equipment-maintenance.html",
+      "group": "Header / Footer",
+      "original": "INDUSTRIAL SUPPLY · IMPORT · EXPORT"
+    },
+    "product-equipment-maintenance.t5": {
+      "page": "product-equipment-maintenance.html",
+      "group": "Header / Footer",
+      "original": "☰"
+    },
+    "product-equipment-maintenance.t6": {
+      "page": "product-equipment-maintenance.html",
+      "group": "Header / Footer",
+      "original": "Home"
+    },
+    "product-equipment-maintenance.t7": {
+      "page": "product-equipment-maintenance.html",
+      "group": "Header / Footer",
+      "original": "About us"
+    },
+    "product-equipment-maintenance.t8": {
+      "page": "product-equipment-maintenance.html",
+      "group": "Header / Footer",
+      "original": "Products"
+    },
+    "product-equipment-maintenance.t9": {
+      "page": "product-equipment-maintenance.html",
+      "group": "Header / Footer",
+      "original": "Promotions"
+    },
+    "product-equipment-maintenance.t10": {
+      "page": "product-equipment-maintenance.html",
+      "group": "Header / Footer",
+      "original": "Careers"
+    },
+    "product-equipment-maintenance.t11": {
+      "page": "product-equipment-maintenance.html",
+      "group": "Header / Footer",
+      "original": "Contact"
+    },
+    "product-equipment-maintenance.t12": {
+      "page": "product-equipment-maintenance.html",
+      "group": "Header / Footer",
+      "original": "Get a quote ↗"
+    },
+    "product-equipment-maintenance.t13": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-hero",
+      "original": "← Back to product range"
+    },
+    "product-equipment-maintenance.t14": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-hero",
+      "original": "MARUTI INDUSTRIAL SUPPLY"
+    },
+    "product-equipment-maintenance.t15": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-hero",
+      "original": "Equipment & Maintenance"
+    },
+    "product-equipment-maintenance.t16": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-hero",
+      "original": "Keep your operations moving."
+    },
+    "product-equipment-maintenance.t17": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-hero",
+      "original": "Support for equipment and maintenance supply requirements across industrial operations. Share your equipment specifications or replacement details with our team."
+    },
+    "product-equipment-maintenance.t18": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-hero",
+      "original": "Enquire on WhatsApp ↗"
+    },
+    "product-equipment-maintenance.t19": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-hero",
+      "original": "Request a quotation ↗"
+    },
+    "product-equipment-maintenance.t20": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-hero",
+      "original": "Category illustration · Contact us for specific products and models."
+    },
+    "product-equipment-maintenance.t21": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "PRODUCTS & DETAILS"
+    },
+    "product-equipment-maintenance.t22": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Explore the "
+    },
+    "product-equipment-maintenance.t23": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "range."
+    },
+    "product-equipment-maintenance.t24": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Choose a product type or send us your complete requirement."
+    },
+    "product-equipment-maintenance.t25": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "01"
+    },
+    "product-equipment-maintenance.t26": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Pumps, motors & compressors"
+    },
+    "product-equipment-maintenance.t27": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Pumps"
+    },
+    "product-equipment-maintenance.t28": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Electric motors"
+    },
+    "product-equipment-maintenance.t29": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Compressors"
+    },
+    "product-equipment-maintenance.t30": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "02"
+    },
+    "product-equipment-maintenance.t31": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Lifting & handling"
+    },
+    "product-equipment-maintenance.t32": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Manual chain blocks"
+    },
+    "product-equipment-maintenance.t33": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Electric lifting winches"
+    },
+    "product-equipment-maintenance.t34": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Manual wire-rope cable pullers"
+    },
+    "product-equipment-maintenance.t35": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Hook block assemblies"
+    },
+    "product-equipment-maintenance.t36": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Bow shackles"
+    },
+    "product-equipment-maintenance.t37": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Beam clamps"
+    },
+    "product-equipment-maintenance.t38": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Chain slings"
+    },
+    "product-equipment-maintenance.t39": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Web slings"
+    },
+    "product-equipment-maintenance.t40": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Round slings"
+    },
+    "product-equipment-maintenance.t41": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Spring balancers"
+    },
+    "product-equipment-maintenance.t42": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "03"
+    },
+    "product-equipment-maintenance.t43": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Load measurement"
+    },
+    "product-equipment-maintenance.t44": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Compression-type load cells"
+    },
+    "product-equipment-maintenance.t45": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Digital crane scales"
+    },
+    "product-equipment-maintenance.t46": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "04"
+    },
+    "product-equipment-maintenance.t47": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Workshop equipment"
+    },
+    "product-equipment-maintenance.t48": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Hand pallet trucks"
+    },
+    "product-equipment-maintenance.t49": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Seven-drawer tool trolleys"
+    },
+    "product-equipment-maintenance.t50": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Adjustable workshop stools"
+    },
+    "product-equipment-maintenance.t51": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Pipe roller stands"
+    },
+    "product-equipment-maintenance.t52": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Magnetic sweepers"
+    },
+    "product-equipment-maintenance.t53": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Manual oil dispensers"
+    },
+    "product-equipment-maintenance.t54": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "05"
+    },
+    "product-equipment-maintenance.t55": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Plant & service equipment"
+    },
+    "product-equipment-maintenance.t56": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Portable air coolers"
+    },
+    "product-equipment-maintenance.t57": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Industrial vacuum cleaners"
+    },
+    "product-equipment-maintenance.t58": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "Maintenance equipment"
+    },
+    "product-equipment-maintenance.t59": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-range",
+      "original": "HVAC, electrical and mechanical supply enquiries"
+    },
+    "product-equipment-maintenance.t60": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-notes",
+      "original": "APPLICATIONS"
+    },
+    "product-equipment-maintenance.t61": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-notes",
+      "original": "Supporting "
+    },
+    "product-equipment-maintenance.t62": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-notes",
+      "original": "your operations."
+    },
+    "product-equipment-maintenance.t63": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-notes",
+      "original": "Plant maintenance"
+    },
+    "product-equipment-maintenance.t64": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-notes",
+      "original": "Mechanical services"
+    },
+    "product-equipment-maintenance.t65": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-notes",
+      "original": "Equipment replacement"
+    },
+    "product-equipment-maintenance.t66": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-notes",
+      "original": "Industrial projects"
+    },
+    "product-equipment-maintenance.t67": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-notes",
+      "original": "FOR A QUICKER QUOTATION"
+    },
+    "product-equipment-maintenance.t68": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-notes",
+      "original": "Share these details with us."
+    },
+    "product-equipment-maintenance.t69": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-notes",
+      "original": "Equipment type and intended use"
+    },
+    "product-equipment-maintenance.t70": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-notes",
+      "original": "Capacity and operating specifications"
+    },
+    "product-equipment-maintenance.t71": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-notes",
+      "original": "Existing model or reference if available"
+    },
+    "product-equipment-maintenance.t72": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-notes",
+      "original": "Quantity and delivery requirement"
+    },
+    "product-equipment-maintenance.t73": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-notes",
+      "original": "Final product selection, specifications and availability are confirmed by our team against your requirement."
+    },
+    "product-equipment-maintenance.t74": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-cta",
+      "original": "LET’S FIND WHAT YOU NEED"
+    },
+    "product-equipment-maintenance.t75": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-cta",
+      "original": "A specific requirement?"
+    },
+    "product-equipment-maintenance.t76": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-cta",
+      "original": "Talk to our team."
+    },
+    "product-equipment-maintenance.t77": {
+      "page": "product-equipment-maintenance.html",
+      "group": "detail-cta",
+      "original": "Send your enquiry ↗"
+    },
+    "product-equipment-maintenance.t78": {
+      "page": "product-equipment-maintenance.html",
+      "group": "related",
+      "original": "KEEP EXPLORING"
+    },
+    "product-equipment-maintenance.t79": {
+      "page": "product-equipment-maintenance.html",
+      "group": "related",
+      "original": "More from "
+    },
+    "product-equipment-maintenance.t80": {
+      "page": "product-equipment-maintenance.html",
+      "group": "related",
+      "original": "MARUTI."
+    },
+    "product-equipment-maintenance.t81": {
+      "page": "product-equipment-maintenance.html",
+      "group": "related",
+      "original": "Industrial Valves"
+    },
+    "product-equipment-maintenance.t82": {
+      "page": "product-equipment-maintenance.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-equipment-maintenance.t83": {
+      "page": "product-equipment-maintenance.html",
+      "group": "related",
+      "original": "Pipe Fittings & Flanges"
+    },
+    "product-equipment-maintenance.t84": {
+      "page": "product-equipment-maintenance.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-equipment-maintenance.t85": {
+      "page": "product-equipment-maintenance.html",
+      "group": "related",
+      "original": "Instrumentation"
+    },
+    "product-equipment-maintenance.t86": {
+      "page": "product-equipment-maintenance.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-equipment-maintenance.t87": {
+      "page": "product-equipment-maintenance.html",
+      "group": "related",
+      "original": "Industrial Tools"
+    },
+    "product-equipment-maintenance.t88": {
+      "page": "product-equipment-maintenance.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-equipment-maintenance.t89": {
+      "page": "product-equipment-maintenance.html",
+      "group": "related",
+      "original": "Lubricants & Chemicals"
+    },
+    "product-equipment-maintenance.t90": {
+      "page": "product-equipment-maintenance.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-equipment-maintenance.t91": {
+      "page": "product-equipment-maintenance.html",
+      "group": "related",
+      "original": "Industrial Product Range"
+    },
+    "product-equipment-maintenance.t92": {
+      "page": "product-equipment-maintenance.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-equipment-maintenance.t93": {
+      "page": "product-equipment-maintenance.html",
+      "group": "Header / Footer",
+      "original": "MARUTI TRADING DWC LLC"
+    },
+    "product-equipment-maintenance.t94": {
+      "page": "product-equipment-maintenance.html",
+      "group": "Header / Footer",
+      "original": "INDUSTRIAL SUPPLY · IMPORT · EXPORT"
+    },
+    "product-equipment-maintenance.t95": {
+      "page": "product-equipment-maintenance.html",
+      "group": "Header / Footer",
+      "original": "© 2026 MARUTI TRADING DWC LLC. All rights reserved."
+    },
+    "product-equipment-maintenance.t96": {
+      "page": "product-equipment-maintenance.html",
+      "group": "Header / Footer",
+      "original": "Back to home ↗"
+    },
+    "product-industrial-product-range.t0": {
+      "page": "product-industrial-product-range.html",
+      "group": "Header / Footer",
+      "original": "BASED IN THE UAE. CONNECTED TO THE WORLD."
+    },
+    "product-industrial-product-range.t1": {
+      "page": "product-industrial-product-range.html",
+      "group": "Header / Footer",
+      "original": "Sales1@marutidwc.com"
+    },
+    "product-industrial-product-range.t2": {
+      "page": "product-industrial-product-range.html",
+      "group": "Header / Footer",
+      "original": "+971 55 457 7179 ↗"
+    },
+    "product-industrial-product-range.t3": {
+      "page": "product-industrial-product-range.html",
+      "group": "Header / Footer",
+      "original": "MARUTI TRADING DWC LLC"
+    },
+    "product-industrial-product-range.t4": {
+      "page": "product-industrial-product-range.html",
+      "group": "Header / Footer",
+      "original": "INDUSTRIAL SUPPLY · IMPORT · EXPORT"
+    },
+    "product-industrial-product-range.t5": {
+      "page": "product-industrial-product-range.html",
+      "group": "Header / Footer",
+      "original": "☰"
+    },
+    "product-industrial-product-range.t6": {
+      "page": "product-industrial-product-range.html",
+      "group": "Header / Footer",
+      "original": "Home"
+    },
+    "product-industrial-product-range.t7": {
+      "page": "product-industrial-product-range.html",
+      "group": "Header / Footer",
+      "original": "About us"
+    },
+    "product-industrial-product-range.t8": {
+      "page": "product-industrial-product-range.html",
+      "group": "Header / Footer",
+      "original": "Products"
+    },
+    "product-industrial-product-range.t9": {
+      "page": "product-industrial-product-range.html",
+      "group": "Header / Footer",
+      "original": "Promotions"
+    },
+    "product-industrial-product-range.t10": {
+      "page": "product-industrial-product-range.html",
+      "group": "Header / Footer",
+      "original": "Careers"
+    },
+    "product-industrial-product-range.t11": {
+      "page": "product-industrial-product-range.html",
+      "group": "Header / Footer",
+      "original": "Contact"
+    },
+    "product-industrial-product-range.t12": {
+      "page": "product-industrial-product-range.html",
+      "group": "Header / Footer",
+      "original": "Get a quote ↗"
+    },
+    "product-industrial-product-range.t13": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-hero",
+      "original": "← Back to product range"
+    },
+    "product-industrial-product-range.t14": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-hero",
+      "original": "MARUTI INDUSTRIAL SUPPLY"
+    },
+    "product-industrial-product-range.t15": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-hero",
+      "original": "Industrial Product Range"
+    },
+    "product-industrial-product-range.t16": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-hero",
+      "original": "One supplier. Complete solutions."
+    },
+    "product-industrial-product-range.t17": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-hero",
+      "original": "Explore the wider MARUTI range of industrial and workplace essentials. Send a combined product list for a single sourcing enquiry."
+    },
+    "product-industrial-product-range.t18": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-hero",
+      "original": "Enquire on WhatsApp ↗"
+    },
+    "product-industrial-product-range.t19": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-hero",
+      "original": "Request a quotation ↗"
+    },
+    "product-industrial-product-range.t20": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-hero",
+      "original": "Explore our complete industrial and workplace supply categories."
+    },
+    "product-industrial-product-range.t21": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "PRODUCTS & DETAILS"
+    },
+    "product-industrial-product-range.t22": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Explore the "
+    },
+    "product-industrial-product-range.t23": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "range."
+    },
+    "product-industrial-product-range.t24": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Choose a product type or send us your complete requirement."
+    },
+    "product-industrial-product-range.t25": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "01"
+    },
+    "product-industrial-product-range.t26": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Lubricants"
+    },
+    "product-industrial-product-range.t27": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Hydraulic oil"
+    },
+    "product-industrial-product-range.t28": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Gear oil"
+    },
+    "product-industrial-product-range.t29": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Compressor oil"
+    },
+    "product-industrial-product-range.t30": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Turbine oil"
+    },
+    "product-industrial-product-range.t31": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Grease"
+    },
+    "product-industrial-product-range.t32": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Cutting oil"
+    },
+    "product-industrial-product-range.t33": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Chain lubricant"
+    },
+    "product-industrial-product-range.t34": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Penetrating oil"
+    },
+    "product-industrial-product-range.t35": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "02"
+    },
+    "product-industrial-product-range.t36": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Hand tools"
+    },
+    "product-industrial-product-range.t37": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Spanners"
+    },
+    "product-industrial-product-range.t38": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Pliers"
+    },
+    "product-industrial-product-range.t39": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Screwdrivers"
+    },
+    "product-industrial-product-range.t40": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Hammers"
+    },
+    "product-industrial-product-range.t41": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Allen keys"
+    },
+    "product-industrial-product-range.t42": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Sockets and accessories"
+    },
+    "product-industrial-product-range.t43": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Cutters"
+    },
+    "product-industrial-product-range.t44": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "03"
+    },
+    "product-industrial-product-range.t45": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Safety products"
+    },
+    "product-industrial-product-range.t46": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Safety helmets"
+    },
+    "product-industrial-product-range.t47": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Safety shoes"
+    },
+    "product-industrial-product-range.t48": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Gloves"
+    },
+    "product-industrial-product-range.t49": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Safety goggles"
+    },
+    "product-industrial-product-range.t50": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Ear protection"
+    },
+    "product-industrial-product-range.t51": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Face masks"
+    },
+    "product-industrial-product-range.t52": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Reflective jackets"
+    },
+    "product-industrial-product-range.t53": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "04"
+    },
+    "product-industrial-product-range.t54": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Abrasives"
+    },
+    "product-industrial-product-range.t55": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Cutting discs"
+    },
+    "product-industrial-product-range.t56": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Grinding wheels"
+    },
+    "product-industrial-product-range.t57": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Flap discs"
+    },
+    "product-industrial-product-range.t58": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Sanding belts"
+    },
+    "product-industrial-product-range.t59": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Fibre discs"
+    },
+    "product-industrial-product-range.t60": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Mounted points"
+    },
+    "product-industrial-product-range.t61": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Wire brushes"
+    },
+    "product-industrial-product-range.t62": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "05"
+    },
+    "product-industrial-product-range.t63": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Adhesives & sealants"
+    },
+    "product-industrial-product-range.t64": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Thread lockers"
+    },
+    "product-industrial-product-range.t65": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Sealants"
+    },
+    "product-industrial-product-range.t66": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Instant adhesives"
+    },
+    "product-industrial-product-range.t67": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Epoxy adhesives"
+    },
+    "product-industrial-product-range.t68": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "RTV silicones"
+    },
+    "product-industrial-product-range.t69": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Gasket makers"
+    },
+    "product-industrial-product-range.t70": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Spray adhesives"
+    },
+    "product-industrial-product-range.t71": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "06"
+    },
+    "product-industrial-product-range.t72": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Pneumatics"
+    },
+    "product-industrial-product-range.t73": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Air cylinders"
+    },
+    "product-industrial-product-range.t74": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "FRL units"
+    },
+    "product-industrial-product-range.t75": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Solenoid valves"
+    },
+    "product-industrial-product-range.t76": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Push-fit fittings"
+    },
+    "product-industrial-product-range.t77": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Pneumatic hoses"
+    },
+    "product-industrial-product-range.t78": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "07"
+    },
+    "product-industrial-product-range.t79": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Valves & fittings"
+    },
+    "product-industrial-product-range.t80": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Ball valves"
+    },
+    "product-industrial-product-range.t81": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Gate valves"
+    },
+    "product-industrial-product-range.t82": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Check valves"
+    },
+    "product-industrial-product-range.t83": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Pipe fittings"
+    },
+    "product-industrial-product-range.t84": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Brass fittings"
+    },
+    "product-industrial-product-range.t85": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Stainless steel fittings"
+    },
+    "product-industrial-product-range.t86": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Flanges"
+    },
+    "product-industrial-product-range.t87": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Nipples"
+    },
+    "product-industrial-product-range.t88": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "08"
+    },
+    "product-industrial-product-range.t89": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Bearings & power transmission"
+    },
+    "product-industrial-product-range.t90": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Ball bearings"
+    },
+    "product-industrial-product-range.t91": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Roller bearings"
+    },
+    "product-industrial-product-range.t92": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Oil seals"
+    },
+    "product-industrial-product-range.t93": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "V-belts"
+    },
+    "product-industrial-product-range.t94": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Timing belts"
+    },
+    "product-industrial-product-range.t95": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Chains and sprockets"
+    },
+    "product-industrial-product-range.t96": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Couplings"
+    },
+    "product-industrial-product-range.t97": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Pulleys"
+    },
+    "product-industrial-product-range.t98": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "09"
+    },
+    "product-industrial-product-range.t99": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Fasteners & hardware"
+    },
+    "product-industrial-product-range.t100": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Hex bolts"
+    },
+    "product-industrial-product-range.t101": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Nuts"
+    },
+    "product-industrial-product-range.t102": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Washers"
+    },
+    "product-industrial-product-range.t103": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Screws"
+    },
+    "product-industrial-product-range.t104": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Anchors"
+    },
+    "product-industrial-product-range.t105": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Rivets"
+    },
+    "product-industrial-product-range.t106": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Studs"
+    },
+    "product-industrial-product-range.t107": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "U-bolts"
+    },
+    "product-industrial-product-range.t108": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "10"
+    },
+    "product-industrial-product-range.t109": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Packaging & consumables"
+    },
+    "product-industrial-product-range.t110": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Packing tapes"
+    },
+    "product-industrial-product-range.t111": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Stretch film"
+    },
+    "product-industrial-product-range.t112": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Cable ties"
+    },
+    "product-industrial-product-range.t113": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Bubble wrap"
+    },
+    "product-industrial-product-range.t114": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Strapping rolls"
+    },
+    "product-industrial-product-range.t115": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Marking tapes"
+    },
+    "product-industrial-product-range.t116": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Disposable gloves"
+    },
+    "product-industrial-product-range.t117": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "11"
+    },
+    "product-industrial-product-range.t118": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Cleaning & maintenance"
+    },
+    "product-industrial-product-range.t119": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Cleaners"
+    },
+    "product-industrial-product-range.t120": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Degreasers"
+    },
+    "product-industrial-product-range.t121": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Lubricant sprays"
+    },
+    "product-industrial-product-range.t122": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Contact cleaners"
+    },
+    "product-industrial-product-range.t123": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Hand cleaners"
+    },
+    "product-industrial-product-range.t124": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Wipes"
+    },
+    "product-industrial-product-range.t125": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Absorbent rolls"
+    },
+    "product-industrial-product-range.t126": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "12"
+    },
+    "product-industrial-product-range.t127": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Measuring & instruments"
+    },
+    "product-industrial-product-range.t128": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Measuring tapes"
+    },
+    "product-industrial-product-range.t129": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Vernier calipers"
+    },
+    "product-industrial-product-range.t130": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Multimeters"
+    },
+    "product-industrial-product-range.t131": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Dial indicators"
+    },
+    "product-industrial-product-range.t132": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Micrometers"
+    },
+    "product-industrial-product-range.t133": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Levels"
+    },
+    "product-industrial-product-range.t134": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "13"
+    },
+    "product-industrial-product-range.t135": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Stationery & office supplies"
+    },
+    "product-industrial-product-range.t136": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Notebooks and registers"
+    },
+    "product-industrial-product-range.t137": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Files and folders"
+    },
+    "product-industrial-product-range.t138": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Paper"
+    },
+    "product-industrial-product-range.t139": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Pens and pencils"
+    },
+    "product-industrial-product-range.t140": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Markers"
+    },
+    "product-industrial-product-range.t141": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Highlighters"
+    },
+    "product-industrial-product-range.t142": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Staplers and punches"
+    },
+    "product-industrial-product-range.t143": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Scissors"
+    },
+    "product-industrial-product-range.t144": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Clip and pins"
+    },
+    "product-industrial-product-range.t145": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Sticky notes"
+    },
+    "product-industrial-product-range.t146": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-range",
+      "original": "Envelopes"
+    },
+    "product-industrial-product-range.t147": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-notes",
+      "original": "APPLICATIONS"
+    },
+    "product-industrial-product-range.t148": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-notes",
+      "original": "Supporting "
+    },
+    "product-industrial-product-range.t149": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-notes",
+      "original": "your operations."
+    },
+    "product-industrial-product-range.t150": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-notes",
+      "original": "Industrial operations"
+    },
+    "product-industrial-product-range.t151": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-notes",
+      "original": "Workshops and maintenance"
+    },
+    "product-industrial-product-range.t152": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-notes",
+      "original": "Project and site requirements"
+    },
+    "product-industrial-product-range.t153": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-notes",
+      "original": "Workplace essentials"
+    },
+    "product-industrial-product-range.t154": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-notes",
+      "original": "FOR A QUICKER QUOTATION"
+    },
+    "product-industrial-product-range.t155": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-notes",
+      "original": "Share these details with us."
+    },
+    "product-industrial-product-range.t156": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-notes",
+      "original": "Product list or category"
+    },
+    "product-industrial-product-range.t157": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-notes",
+      "original": "Required sizes and specifications"
+    },
+    "product-industrial-product-range.t158": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-notes",
+      "original": "Quantities and preferred brands"
+    },
+    "product-industrial-product-range.t159": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-notes",
+      "original": "Delivery location"
+    },
+    "product-industrial-product-range.t160": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-notes",
+      "original": "Final product selection, specifications and availability are confirmed by our team against your requirement."
+    },
+    "product-industrial-product-range.t161": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-cta",
+      "original": "LET’S FIND WHAT YOU NEED"
+    },
+    "product-industrial-product-range.t162": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-cta",
+      "original": "A specific requirement?"
+    },
+    "product-industrial-product-range.t163": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-cta",
+      "original": "Talk to our team."
+    },
+    "product-industrial-product-range.t164": {
+      "page": "product-industrial-product-range.html",
+      "group": "detail-cta",
+      "original": "Send your enquiry ↗"
+    },
+    "product-industrial-product-range.t165": {
+      "page": "product-industrial-product-range.html",
+      "group": "related",
+      "original": "KEEP EXPLORING"
+    },
+    "product-industrial-product-range.t166": {
+      "page": "product-industrial-product-range.html",
+      "group": "related",
+      "original": "More from "
+    },
+    "product-industrial-product-range.t167": {
+      "page": "product-industrial-product-range.html",
+      "group": "related",
+      "original": "MARUTI."
+    },
+    "product-industrial-product-range.t168": {
+      "page": "product-industrial-product-range.html",
+      "group": "related",
+      "original": "Industrial Valves"
+    },
+    "product-industrial-product-range.t169": {
+      "page": "product-industrial-product-range.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-industrial-product-range.t170": {
+      "page": "product-industrial-product-range.html",
+      "group": "related",
+      "original": "Pipe Fittings & Flanges"
+    },
+    "product-industrial-product-range.t171": {
+      "page": "product-industrial-product-range.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-industrial-product-range.t172": {
+      "page": "product-industrial-product-range.html",
+      "group": "related",
+      "original": "Instrumentation"
+    },
+    "product-industrial-product-range.t173": {
+      "page": "product-industrial-product-range.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-industrial-product-range.t174": {
+      "page": "product-industrial-product-range.html",
+      "group": "related",
+      "original": "Industrial Tools"
+    },
+    "product-industrial-product-range.t175": {
+      "page": "product-industrial-product-range.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-industrial-product-range.t176": {
+      "page": "product-industrial-product-range.html",
+      "group": "related",
+      "original": "Equipment & Maintenance"
+    },
+    "product-industrial-product-range.t177": {
+      "page": "product-industrial-product-range.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-industrial-product-range.t178": {
+      "page": "product-industrial-product-range.html",
+      "group": "related",
+      "original": "Lubricants & Chemicals"
+    },
+    "product-industrial-product-range.t179": {
+      "page": "product-industrial-product-range.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-industrial-product-range.t180": {
+      "page": "product-industrial-product-range.html",
+      "group": "Header / Footer",
+      "original": "MARUTI TRADING DWC LLC"
+    },
+    "product-industrial-product-range.t181": {
+      "page": "product-industrial-product-range.html",
+      "group": "Header / Footer",
+      "original": "INDUSTRIAL SUPPLY · IMPORT · EXPORT"
+    },
+    "product-industrial-product-range.t182": {
+      "page": "product-industrial-product-range.html",
+      "group": "Header / Footer",
+      "original": "© 2026 MARUTI TRADING DWC LLC. All rights reserved."
+    },
+    "product-industrial-product-range.t183": {
+      "page": "product-industrial-product-range.html",
+      "group": "Header / Footer",
+      "original": "Back to home ↗"
+    },
+    "product-industrial-tools.t0": {
+      "page": "product-industrial-tools.html",
+      "group": "Header / Footer",
+      "original": "BASED IN THE UAE. CONNECTED TO THE WORLD."
+    },
+    "product-industrial-tools.t1": {
+      "page": "product-industrial-tools.html",
+      "group": "Header / Footer",
+      "original": "Sales1@marutidwc.com"
+    },
+    "product-industrial-tools.t2": {
+      "page": "product-industrial-tools.html",
+      "group": "Header / Footer",
+      "original": "+971 55 457 7179 ↗"
+    },
+    "product-industrial-tools.t3": {
+      "page": "product-industrial-tools.html",
+      "group": "Header / Footer",
+      "original": "MARUTI TRADING DWC LLC"
+    },
+    "product-industrial-tools.t4": {
+      "page": "product-industrial-tools.html",
+      "group": "Header / Footer",
+      "original": "INDUSTRIAL SUPPLY · IMPORT · EXPORT"
+    },
+    "product-industrial-tools.t5": {
+      "page": "product-industrial-tools.html",
+      "group": "Header / Footer",
+      "original": "☰"
+    },
+    "product-industrial-tools.t6": {
+      "page": "product-industrial-tools.html",
+      "group": "Header / Footer",
+      "original": "Home"
+    },
+    "product-industrial-tools.t7": {
+      "page": "product-industrial-tools.html",
+      "group": "Header / Footer",
+      "original": "About us"
+    },
+    "product-industrial-tools.t8": {
+      "page": "product-industrial-tools.html",
+      "group": "Header / Footer",
+      "original": "Products"
+    },
+    "product-industrial-tools.t9": {
+      "page": "product-industrial-tools.html",
+      "group": "Header / Footer",
+      "original": "Promotions"
+    },
+    "product-industrial-tools.t10": {
+      "page": "product-industrial-tools.html",
+      "group": "Header / Footer",
+      "original": "Careers"
+    },
+    "product-industrial-tools.t11": {
+      "page": "product-industrial-tools.html",
+      "group": "Header / Footer",
+      "original": "Contact"
+    },
+    "product-industrial-tools.t12": {
+      "page": "product-industrial-tools.html",
+      "group": "Header / Footer",
+      "original": "Get a quote ↗"
+    },
+    "product-industrial-tools.t13": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-hero",
+      "original": "← Back to product range"
+    },
+    "product-industrial-tools.t14": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-hero",
+      "original": "MARUTI INDUSTRIAL SUPPLY"
+    },
+    "product-industrial-tools.t15": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-hero",
+      "original": "Industrial Tools"
+    },
+    "product-industrial-tools.t16": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-hero",
+      "original": "Equip your team for the task."
+    },
+    "product-industrial-tools.t17": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-hero",
+      "original": "Hand tools, power tools and workshop essentials for installation, maintenance and everyday industrial work. Send your tool list or preferred specifications."
+    },
+    "product-industrial-tools.t18": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-hero",
+      "original": "Enquire on WhatsApp ↗"
+    },
+    "product-industrial-tools.t19": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-hero",
+      "original": "Request a quotation ↗"
+    },
+    "product-industrial-tools.t20": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-hero",
+      "original": "Category illustration · Contact us for specific products and models."
+    },
+    "product-industrial-tools.t21": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "PRODUCTS & DETAILS"
+    },
+    "product-industrial-tools.t22": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Explore the "
+    },
+    "product-industrial-tools.t23": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "range."
+    },
+    "product-industrial-tools.t24": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Choose a product type or send us your complete requirement."
+    },
+    "product-industrial-tools.t25": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "01"
+    },
+    "product-industrial-tools.t26": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Wrenches, sockets & drivers"
+    },
+    "product-industrial-tools.t27": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Heavy-duty pipe wrenches"
+    },
+    "product-industrial-tools.t28": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Adjustable wrenches"
+    },
+    "product-industrial-tools.t29": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Hex key sets"
+    },
+    "product-industrial-tools.t30": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Insulated screwdriver sets"
+    },
+    "product-industrial-tools.t31": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Impact socket sets"
+    },
+    "product-industrial-tools.t32": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Quick-release ratchet handles"
+    },
+    "product-industrial-tools.t33": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Extension bars"
+    },
+    "product-industrial-tools.t34": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Universal joints"
+    },
+    "product-industrial-tools.t35": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Micrometer-type torque wrenches"
+    },
+    "product-industrial-tools.t36": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "02"
+    },
+    "product-industrial-tools.t37": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Workshop hand tools"
+    },
+    "product-industrial-tools.t38": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Ball-pein hammers"
+    },
+    "product-industrial-tools.t39": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Claw hammers"
+    },
+    "product-industrial-tools.t40": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Cold chisels"
+    },
+    "product-industrial-tools.t41": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Cold chisel sets"
+    },
+    "product-industrial-tools.t42": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Utility knives"
+    },
+    "product-industrial-tools.t43": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Hacksaw frames"
+    },
+    "product-industrial-tools.t44": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Tin snips"
+    },
+    "product-industrial-tools.t45": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Bench vices"
+    },
+    "product-industrial-tools.t46": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Tap and die sets"
+    },
+    "product-industrial-tools.t47": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Center punches"
+    },
+    "product-industrial-tools.t48": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Pry bars"
+    },
+    "product-industrial-tools.t49": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Bolt cutters"
+    },
+    "product-industrial-tools.t50": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Groove-joint pliers"
+    },
+    "product-industrial-tools.t51": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "03"
+    },
+    "product-industrial-tools.t52": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Maintenance tools"
+    },
+    "product-industrial-tools.t53": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Feeler gauges"
+    },
+    "product-industrial-tools.t54": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Oil filter wrenches"
+    },
+    "product-industrial-tools.t55": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Air blow guns"
+    },
+    "product-industrial-tools.t56": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Hose clamp pliers"
+    },
+    "product-industrial-tools.t57": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Magnetic pick-up tools"
+    },
+    "product-industrial-tools.t58": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "LED inspection lights"
+    },
+    "product-industrial-tools.t59": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Thread restorer sets"
+    },
+    "product-industrial-tools.t60": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Bearing pullers"
+    },
+    "product-industrial-tools.t61": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Hand rivet guns"
+    },
+    "product-industrial-tools.t62": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Grease guns"
+    },
+    "product-industrial-tools.t63": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Steel wire brushes"
+    },
+    "product-industrial-tools.t64": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "04"
+    },
+    "product-industrial-tools.t65": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Pipe & tube tools"
+    },
+    "product-industrial-tools.t66": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Adjustable pipe cutters"
+    },
+    "product-industrial-tools.t67": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Heavy-duty pipe cutters"
+    },
+    "product-industrial-tools.t68": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Manual tube benders"
+    },
+    "product-industrial-tools.t69": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Tube expander sets"
+    },
+    "product-industrial-tools.t70": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Electric pipe threading machines"
+    },
+    "product-industrial-tools.t71": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Plastic pipe welders"
+    },
+    "product-industrial-tools.t72": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Hydraulic pipe benders"
+    },
+    "product-industrial-tools.t73": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "05"
+    },
+    "product-industrial-tools.t74": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Power tools"
+    },
+    "product-industrial-tools.t75": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Cordless impact drivers"
+    },
+    "product-industrial-tools.t76": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Cordless rivet guns"
+    },
+    "product-industrial-tools.t77": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Straight die grinders"
+    },
+    "product-industrial-tools.t78": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Polishing machines"
+    },
+    "product-industrial-tools.t79": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Bench grinders"
+    },
+    "product-industrial-tools.t80": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Magnetic drills"
+    },
+    "product-industrial-tools.t81": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Electric blowers"
+    },
+    "product-industrial-tools.t82": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Heat guns"
+    },
+    "product-industrial-tools.t83": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Electric soldering irons"
+    },
+    "product-industrial-tools.t84": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "06"
+    },
+    "product-industrial-tools.t85": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Measuring & detection"
+    },
+    "product-industrial-tools.t86": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Measuring tapes"
+    },
+    "product-industrial-tools.t87": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Vernier calipers"
+    },
+    "product-industrial-tools.t88": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Outside micrometers"
+    },
+    "product-industrial-tools.t89": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Digital multimeters"
+    },
+    "product-industrial-tools.t90": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Vibration meters"
+    },
+    "product-industrial-tools.t91": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Laser distance meters"
+    },
+    "product-industrial-tools.t92": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Stud finders"
+    },
+    "product-industrial-tools.t93": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "07"
+    },
+    "product-industrial-tools.t94": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Welding & cutting accessories"
+    },
+    "product-industrial-tools.t95": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Oxygen regulators"
+    },
+    "product-industrial-tools.t96": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Acetylene flashback arrestors"
+    },
+    "product-industrial-tools.t97": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Auto-darkening welding helmets"
+    },
+    "product-industrial-tools.t98": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Multi-angle welding magnets"
+    },
+    "product-industrial-tools.t99": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Heavy-duty gas cutting torches"
+    },
+    "product-industrial-tools.t100": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "08"
+    },
+    "product-industrial-tools.t101": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Air, cleaning & service tools"
+    },
+    "product-industrial-tools.t102": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Air-operated spray guns"
+    },
+    "product-industrial-tools.t103": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Automatic air hose reels"
+    },
+    "product-industrial-tools.t104": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Industrial wet and dry vacuum cleaners"
+    },
+    "product-industrial-tools.t105": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Portable air coolers"
+    },
+    "product-industrial-tools.t106": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Oil funnels"
+    },
+    "product-industrial-tools.t107": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Hand cable cutters"
+    },
+    "product-industrial-tools.t108": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Heavy-duty cable cutters"
+    },
+    "product-industrial-tools.t109": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-range",
+      "original": "Cable pullers"
+    },
+    "product-industrial-tools.t110": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-notes",
+      "original": "APPLICATIONS"
+    },
+    "product-industrial-tools.t111": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-notes",
+      "original": "Supporting "
+    },
+    "product-industrial-tools.t112": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-notes",
+      "original": "your operations."
+    },
+    "product-industrial-tools.t113": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-notes",
+      "original": "Mechanical maintenance"
+    },
+    "product-industrial-tools.t114": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-notes",
+      "original": "Installation work"
+    },
+    "product-industrial-tools.t115": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-notes",
+      "original": "Workshop operations"
+    },
+    "product-industrial-tools.t116": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-notes",
+      "original": "Cutting, drilling and finishing"
+    },
+    "product-industrial-tools.t117": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-notes",
+      "original": "FOR A QUICKER QUOTATION"
+    },
+    "product-industrial-tools.t118": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-notes",
+      "original": "Share these details with us."
+    },
+    "product-industrial-tools.t119": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-notes",
+      "original": "Tool type or item list"
+    },
+    "product-industrial-tools.t120": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-notes",
+      "original": "Preferred brand or specification"
+    },
+    "product-industrial-tools.t121": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-notes",
+      "original": "Power supply where applicable"
+    },
+    "product-industrial-tools.t122": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-notes",
+      "original": "Quantity and required accessories"
+    },
+    "product-industrial-tools.t123": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-notes",
+      "original": "Final product selection, specifications and availability are confirmed by our team against your requirement."
+    },
+    "product-industrial-tools.t124": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-cta",
+      "original": "LET’S FIND WHAT YOU NEED"
+    },
+    "product-industrial-tools.t125": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-cta",
+      "original": "A specific requirement?"
+    },
+    "product-industrial-tools.t126": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-cta",
+      "original": "Talk to our team."
+    },
+    "product-industrial-tools.t127": {
+      "page": "product-industrial-tools.html",
+      "group": "detail-cta",
+      "original": "Send your enquiry ↗"
+    },
+    "product-industrial-tools.t128": {
+      "page": "product-industrial-tools.html",
+      "group": "related",
+      "original": "KEEP EXPLORING"
+    },
+    "product-industrial-tools.t129": {
+      "page": "product-industrial-tools.html",
+      "group": "related",
+      "original": "More from "
+    },
+    "product-industrial-tools.t130": {
+      "page": "product-industrial-tools.html",
+      "group": "related",
+      "original": "MARUTI."
+    },
+    "product-industrial-tools.t131": {
+      "page": "product-industrial-tools.html",
+      "group": "related",
+      "original": "Industrial Valves"
+    },
+    "product-industrial-tools.t132": {
+      "page": "product-industrial-tools.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-industrial-tools.t133": {
+      "page": "product-industrial-tools.html",
+      "group": "related",
+      "original": "Pipe Fittings & Flanges"
+    },
+    "product-industrial-tools.t134": {
+      "page": "product-industrial-tools.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-industrial-tools.t135": {
+      "page": "product-industrial-tools.html",
+      "group": "related",
+      "original": "Instrumentation"
+    },
+    "product-industrial-tools.t136": {
+      "page": "product-industrial-tools.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-industrial-tools.t137": {
+      "page": "product-industrial-tools.html",
+      "group": "related",
+      "original": "Equipment & Maintenance"
+    },
+    "product-industrial-tools.t138": {
+      "page": "product-industrial-tools.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-industrial-tools.t139": {
+      "page": "product-industrial-tools.html",
+      "group": "related",
+      "original": "Lubricants & Chemicals"
+    },
+    "product-industrial-tools.t140": {
+      "page": "product-industrial-tools.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-industrial-tools.t141": {
+      "page": "product-industrial-tools.html",
+      "group": "related",
+      "original": "Industrial Product Range"
+    },
+    "product-industrial-tools.t142": {
+      "page": "product-industrial-tools.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-industrial-tools.t143": {
+      "page": "product-industrial-tools.html",
+      "group": "Header / Footer",
+      "original": "MARUTI TRADING DWC LLC"
+    },
+    "product-industrial-tools.t144": {
+      "page": "product-industrial-tools.html",
+      "group": "Header / Footer",
+      "original": "INDUSTRIAL SUPPLY · IMPORT · EXPORT"
+    },
+    "product-industrial-tools.t145": {
+      "page": "product-industrial-tools.html",
+      "group": "Header / Footer",
+      "original": "© 2026 MARUTI TRADING DWC LLC. All rights reserved."
+    },
+    "product-industrial-tools.t146": {
+      "page": "product-industrial-tools.html",
+      "group": "Header / Footer",
+      "original": "Back to home ↗"
+    },
+    "product-industrial-valves.t0": {
+      "page": "product-industrial-valves.html",
+      "group": "Header / Footer",
+      "original": "BASED IN THE UAE. CONNECTED TO THE WORLD."
+    },
+    "product-industrial-valves.t1": {
+      "page": "product-industrial-valves.html",
+      "group": "Header / Footer",
+      "original": "Sales1@marutidwc.com"
+    },
+    "product-industrial-valves.t2": {
+      "page": "product-industrial-valves.html",
+      "group": "Header / Footer",
+      "original": "+971 55 457 7179 ↗"
+    },
+    "product-industrial-valves.t3": {
+      "page": "product-industrial-valves.html",
+      "group": "Header / Footer",
+      "original": "MARUTI TRADING DWC LLC"
+    },
+    "product-industrial-valves.t4": {
+      "page": "product-industrial-valves.html",
+      "group": "Header / Footer",
+      "original": "INDUSTRIAL SUPPLY · IMPORT · EXPORT"
+    },
+    "product-industrial-valves.t5": {
+      "page": "product-industrial-valves.html",
+      "group": "Header / Footer",
+      "original": "☰"
+    },
+    "product-industrial-valves.t6": {
+      "page": "product-industrial-valves.html",
+      "group": "Header / Footer",
+      "original": "Home"
+    },
+    "product-industrial-valves.t7": {
+      "page": "product-industrial-valves.html",
+      "group": "Header / Footer",
+      "original": "About us"
+    },
+    "product-industrial-valves.t8": {
+      "page": "product-industrial-valves.html",
+      "group": "Header / Footer",
+      "original": "Products"
+    },
+    "product-industrial-valves.t9": {
+      "page": "product-industrial-valves.html",
+      "group": "Header / Footer",
+      "original": "Promotions"
+    },
+    "product-industrial-valves.t10": {
+      "page": "product-industrial-valves.html",
+      "group": "Header / Footer",
+      "original": "Careers"
+    },
+    "product-industrial-valves.t11": {
+      "page": "product-industrial-valves.html",
+      "group": "Header / Footer",
+      "original": "Contact"
+    },
+    "product-industrial-valves.t12": {
+      "page": "product-industrial-valves.html",
+      "group": "Header / Footer",
+      "original": "Get a quote ↗"
+    },
+    "product-industrial-valves.t13": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-hero",
+      "original": "← Back to product range"
+    },
+    "product-industrial-valves.t14": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-hero",
+      "original": "MARUTI INDUSTRIAL SUPPLY"
+    },
+    "product-industrial-valves.t15": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-hero",
+      "original": "Industrial Valves"
+    },
+    "product-industrial-valves.t16": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-hero",
+      "original": "Flow control. Built for industry."
+    },
+    "product-industrial-valves.t17": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-hero",
+      "original": "Explore valves for isolation, flow regulation and system protection. Share your service conditions, materials and connection requirements for a tailored enquiry."
+    },
+    "product-industrial-valves.t18": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-hero",
+      "original": "Enquire on WhatsApp ↗"
+    },
+    "product-industrial-valves.t19": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-hero",
+      "original": "Request a quotation ↗"
+    },
+    "product-industrial-valves.t20": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-hero",
+      "original": "Category illustration · Contact us for specific products and models."
+    },
+    "product-industrial-valves.t21": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "PRODUCTS & DETAILS"
+    },
+    "product-industrial-valves.t22": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Explore the "
+    },
+    "product-industrial-valves.t23": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "range."
+    },
+    "product-industrial-valves.t24": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Choose a product type or send us your complete requirement."
+    },
+    "product-industrial-valves.t25": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "01"
+    },
+    "product-industrial-valves.t26": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Bronze & brass valves"
+    },
+    "product-industrial-valves.t27": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Bronze globe valves"
+    },
+    "product-industrial-valves.t28": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Bronze ball valves"
+    },
+    "product-industrial-valves.t29": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Bronze gate valves"
+    },
+    "product-industrial-valves.t30": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Brass ball valves"
+    },
+    "product-industrial-valves.t31": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Bronze safety valves"
+    },
+    "product-industrial-valves.t32": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "02"
+    },
+    "product-industrial-valves.t33": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Isolation & regulation"
+    },
+    "product-industrial-valves.t34": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Ductile iron gate valves"
+    },
+    "product-industrial-valves.t35": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Wafer-type butterfly valves"
+    },
+    "product-industrial-valves.t36": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Globe valves"
+    },
+    "product-industrial-valves.t37": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Diaphragm valves"
+    },
+    "product-industrial-valves.t38": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Flanged ball valves"
+    },
+    "product-industrial-valves.t39": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Threaded ball valves"
+    },
+    "product-industrial-valves.t40": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "03"
+    },
+    "product-industrial-valves.t41": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Check valves"
+    },
+    "product-industrial-valves.t42": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Stainless steel swing check valves"
+    },
+    "product-industrial-valves.t43": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Lift check valves"
+    },
+    "product-industrial-valves.t44": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Swing check valves"
+    },
+    "product-industrial-valves.t45": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "04"
+    },
+    "product-industrial-valves.t46": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Control & protection"
+    },
+    "product-industrial-valves.t47": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Pressure reducing valves"
+    },
+    "product-industrial-valves.t48": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Needle valves"
+    },
+    "product-industrial-valves.t49": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Safety relief valves"
+    },
+    "product-industrial-valves.t50": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Solenoid valves"
+    },
+    "product-industrial-valves.t51": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-range",
+      "original": "Thermodynamic steam traps"
+    },
+    "product-industrial-valves.t52": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-notes",
+      "original": "APPLICATIONS"
+    },
+    "product-industrial-valves.t53": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-notes",
+      "original": "Supporting "
+    },
+    "product-industrial-valves.t54": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-notes",
+      "original": "your operations."
+    },
+    "product-industrial-valves.t55": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-notes",
+      "original": "Industrial piping"
+    },
+    "product-industrial-valves.t56": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-notes",
+      "original": "Process systems"
+    },
+    "product-industrial-valves.t57": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-notes",
+      "original": "Utility lines"
+    },
+    "product-industrial-valves.t58": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-notes",
+      "original": "Plant maintenance"
+    },
+    "product-industrial-valves.t59": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-notes",
+      "original": "FOR A QUICKER QUOTATION"
+    },
+    "product-industrial-valves.t60": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-notes",
+      "original": "Share these details with us."
+    },
+    "product-industrial-valves.t61": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-notes",
+      "original": "Valve type and size"
+    },
+    "product-industrial-valves.t62": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-notes",
+      "original": "Material and pressure rating"
+    },
+    "product-industrial-valves.t63": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-notes",
+      "original": "End connection and standard"
+    },
+    "product-industrial-valves.t64": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-notes",
+      "original": "Quantity and service conditions"
+    },
+    "product-industrial-valves.t65": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-notes",
+      "original": "Final product selection, specifications and availability are confirmed by our team against your requirement."
+    },
+    "product-industrial-valves.t66": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-cta",
+      "original": "LET’S FIND WHAT YOU NEED"
+    },
+    "product-industrial-valves.t67": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-cta",
+      "original": "A specific requirement?"
+    },
+    "product-industrial-valves.t68": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-cta",
+      "original": "Talk to our team."
+    },
+    "product-industrial-valves.t69": {
+      "page": "product-industrial-valves.html",
+      "group": "detail-cta",
+      "original": "Send your enquiry ↗"
+    },
+    "product-industrial-valves.t70": {
+      "page": "product-industrial-valves.html",
+      "group": "related",
+      "original": "KEEP EXPLORING"
+    },
+    "product-industrial-valves.t71": {
+      "page": "product-industrial-valves.html",
+      "group": "related",
+      "original": "More from "
+    },
+    "product-industrial-valves.t72": {
+      "page": "product-industrial-valves.html",
+      "group": "related",
+      "original": "MARUTI."
+    },
+    "product-industrial-valves.t73": {
+      "page": "product-industrial-valves.html",
+      "group": "related",
+      "original": "Pipe Fittings & Flanges"
+    },
+    "product-industrial-valves.t74": {
+      "page": "product-industrial-valves.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-industrial-valves.t75": {
+      "page": "product-industrial-valves.html",
+      "group": "related",
+      "original": "Instrumentation"
+    },
+    "product-industrial-valves.t76": {
+      "page": "product-industrial-valves.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-industrial-valves.t77": {
+      "page": "product-industrial-valves.html",
+      "group": "related",
+      "original": "Industrial Tools"
+    },
+    "product-industrial-valves.t78": {
+      "page": "product-industrial-valves.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-industrial-valves.t79": {
+      "page": "product-industrial-valves.html",
+      "group": "related",
+      "original": "Equipment & Maintenance"
+    },
+    "product-industrial-valves.t80": {
+      "page": "product-industrial-valves.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-industrial-valves.t81": {
+      "page": "product-industrial-valves.html",
+      "group": "related",
+      "original": "Lubricants & Chemicals"
+    },
+    "product-industrial-valves.t82": {
+      "page": "product-industrial-valves.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-industrial-valves.t83": {
+      "page": "product-industrial-valves.html",
+      "group": "related",
+      "original": "Industrial Product Range"
+    },
+    "product-industrial-valves.t84": {
+      "page": "product-industrial-valves.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-industrial-valves.t85": {
+      "page": "product-industrial-valves.html",
+      "group": "Header / Footer",
+      "original": "MARUTI TRADING DWC LLC"
+    },
+    "product-industrial-valves.t86": {
+      "page": "product-industrial-valves.html",
+      "group": "Header / Footer",
+      "original": "INDUSTRIAL SUPPLY · IMPORT · EXPORT"
+    },
+    "product-industrial-valves.t87": {
+      "page": "product-industrial-valves.html",
+      "group": "Header / Footer",
+      "original": "© 2026 MARUTI TRADING DWC LLC. All rights reserved."
+    },
+    "product-industrial-valves.t88": {
+      "page": "product-industrial-valves.html",
+      "group": "Header / Footer",
+      "original": "Back to home ↗"
+    },
+    "product-instrumentation-gauges.t0": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "Header / Footer",
+      "original": "BASED IN THE UAE. CONNECTED TO THE WORLD."
+    },
+    "product-instrumentation-gauges.t1": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "Header / Footer",
+      "original": "Sales1@marutidwc.com"
+    },
+    "product-instrumentation-gauges.t2": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "Header / Footer",
+      "original": "+971 55 457 7179 ↗"
+    },
+    "product-instrumentation-gauges.t3": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "Header / Footer",
+      "original": "MARUTI TRADING DWC LLC"
+    },
+    "product-instrumentation-gauges.t4": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "Header / Footer",
+      "original": "INDUSTRIAL SUPPLY · IMPORT · EXPORT"
+    },
+    "product-instrumentation-gauges.t5": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "Header / Footer",
+      "original": "☰"
+    },
+    "product-instrumentation-gauges.t6": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "Header / Footer",
+      "original": "Home"
+    },
+    "product-instrumentation-gauges.t7": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "Header / Footer",
+      "original": "About us"
+    },
+    "product-instrumentation-gauges.t8": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "Header / Footer",
+      "original": "Products"
+    },
+    "product-instrumentation-gauges.t9": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "Header / Footer",
+      "original": "Promotions"
+    },
+    "product-instrumentation-gauges.t10": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "Header / Footer",
+      "original": "Careers"
+    },
+    "product-instrumentation-gauges.t11": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "Header / Footer",
+      "original": "Contact"
+    },
+    "product-instrumentation-gauges.t12": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "Header / Footer",
+      "original": "Get a quote ↗"
+    },
+    "product-instrumentation-gauges.t13": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-hero",
+      "original": "← Back to product range"
+    },
+    "product-instrumentation-gauges.t14": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-hero",
+      "original": "MARUTI INDUSTRIAL SUPPLY"
+    },
+    "product-instrumentation-gauges.t15": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-hero",
+      "original": "Instrumentation"
+    },
+    "product-instrumentation-gauges.t16": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-hero",
+      "original": "Measure. Monitor. Control."
+    },
+    "product-instrumentation-gauges.t17": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-hero",
+      "original": "Measurement and monitoring products for industrial requirements. Tell us the medium, operating range and connection details to support the selection process."
+    },
+    "product-instrumentation-gauges.t18": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-hero",
+      "original": "Enquire on WhatsApp ↗"
+    },
+    "product-instrumentation-gauges.t19": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-hero",
+      "original": "Request a quotation ↗"
+    },
+    "product-instrumentation-gauges.t20": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-hero",
+      "original": "Category illustration · Contact us for specific products and models."
+    },
+    "product-instrumentation-gauges.t21": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "PRODUCTS & DETAILS"
+    },
+    "product-instrumentation-gauges.t22": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Explore the "
+    },
+    "product-instrumentation-gauges.t23": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "range."
+    },
+    "product-instrumentation-gauges.t24": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Choose a product type or send us your complete requirement."
+    },
+    "product-instrumentation-gauges.t25": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "01"
+    },
+    "product-instrumentation-gauges.t26": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Pressure gauges"
+    },
+    "product-instrumentation-gauges.t27": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Bourdon tube pressure gauges"
+    },
+    "product-instrumentation-gauges.t28": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Glycerine-filled pressure gauges"
+    },
+    "product-instrumentation-gauges.t29": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Compound gauges"
+    },
+    "product-instrumentation-gauges.t30": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Digital pressure gauges"
+    },
+    "product-instrumentation-gauges.t31": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "02"
+    },
+    "product-instrumentation-gauges.t32": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Flow measurement"
+    },
+    "product-instrumentation-gauges.t33": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Magnetic flow meters"
+    },
+    "product-instrumentation-gauges.t34": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Rotameters"
+    },
+    "product-instrumentation-gauges.t35": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Sight flow indicators"
+    },
+    "product-instrumentation-gauges.t36": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Flanged sight glasses"
+    },
+    "product-instrumentation-gauges.t37": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "03"
+    },
+    "product-instrumentation-gauges.t38": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Temperature measurement"
+    },
+    "product-instrumentation-gauges.t39": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Bar-stock thermowells"
+    },
+    "product-instrumentation-gauges.t40": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "RTD temperature sensors"
+    },
+    "product-instrumentation-gauges.t41": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Temperature gauges and sensors"
+    },
+    "product-instrumentation-gauges.t42": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "04"
+    },
+    "product-instrumentation-gauges.t43": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Pressure accessories"
+    },
+    "product-instrumentation-gauges.t44": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Pulsation dampeners"
+    },
+    "product-instrumentation-gauges.t45": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Pressure snubbers"
+    },
+    "product-instrumentation-gauges.t46": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Syphon tubes"
+    },
+    "product-instrumentation-gauges.t47": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Gauge cocks"
+    },
+    "product-instrumentation-gauges.t48": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "05"
+    },
+    "product-instrumentation-gauges.t49": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Process control components"
+    },
+    "product-instrumentation-gauges.t50": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Instrumentation needle valves"
+    },
+    "product-instrumentation-gauges.t51": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Two-valve needle manifolds"
+    },
+    "product-instrumentation-gauges.t52": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Air headers"
+    },
+    "product-instrumentation-gauges.t53": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Condensate pots"
+    },
+    "product-instrumentation-gauges.t54": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Pressure transmitters"
+    },
+    "product-instrumentation-gauges.t55": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "06"
+    },
+    "product-instrumentation-gauges.t56": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Pneumatic connections"
+    },
+    "product-instrumentation-gauges.t57": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Pneumatic fittings"
+    },
+    "product-instrumentation-gauges.t58": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-range",
+      "original": "Air filter regulator lubricator (FRL) units"
+    },
+    "product-instrumentation-gauges.t59": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-notes",
+      "original": "APPLICATIONS"
+    },
+    "product-instrumentation-gauges.t60": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-notes",
+      "original": "Supporting "
+    },
+    "product-instrumentation-gauges.t61": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-notes",
+      "original": "your operations."
+    },
+    "product-instrumentation-gauges.t62": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-notes",
+      "original": "Process monitoring"
+    },
+    "product-instrumentation-gauges.t63": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-notes",
+      "original": "Plant maintenance"
+    },
+    "product-instrumentation-gauges.t64": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-notes",
+      "original": "Equipment monitoring"
+    },
+    "product-instrumentation-gauges.t65": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-notes",
+      "original": "Industrial control systems"
+    },
+    "product-instrumentation-gauges.t66": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-notes",
+      "original": "FOR A QUICKER QUOTATION"
+    },
+    "product-instrumentation-gauges.t67": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-notes",
+      "original": "Share these details with us."
+    },
+    "product-instrumentation-gauges.t68": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-notes",
+      "original": "Instrument type and range"
+    },
+    "product-instrumentation-gauges.t69": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-notes",
+      "original": "Process medium"
+    },
+    "product-instrumentation-gauges.t70": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-notes",
+      "original": "Connection size and mounting"
+    },
+    "product-instrumentation-gauges.t71": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-notes",
+      "original": "Output signal where applicable"
+    },
+    "product-instrumentation-gauges.t72": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-notes",
+      "original": "Final product selection, specifications and availability are confirmed by our team against your requirement."
+    },
+    "product-instrumentation-gauges.t73": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-cta",
+      "original": "LET’S FIND WHAT YOU NEED"
+    },
+    "product-instrumentation-gauges.t74": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-cta",
+      "original": "A specific requirement?"
+    },
+    "product-instrumentation-gauges.t75": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-cta",
+      "original": "Talk to our team."
+    },
+    "product-instrumentation-gauges.t76": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "detail-cta",
+      "original": "Send your enquiry ↗"
+    },
+    "product-instrumentation-gauges.t77": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "related",
+      "original": "KEEP EXPLORING"
+    },
+    "product-instrumentation-gauges.t78": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "related",
+      "original": "More from "
+    },
+    "product-instrumentation-gauges.t79": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "related",
+      "original": "MARUTI."
+    },
+    "product-instrumentation-gauges.t80": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "related",
+      "original": "Industrial Valves"
+    },
+    "product-instrumentation-gauges.t81": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-instrumentation-gauges.t82": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "related",
+      "original": "Pipe Fittings & Flanges"
+    },
+    "product-instrumentation-gauges.t83": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-instrumentation-gauges.t84": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "related",
+      "original": "Industrial Tools"
+    },
+    "product-instrumentation-gauges.t85": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-instrumentation-gauges.t86": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "related",
+      "original": "Equipment & Maintenance"
+    },
+    "product-instrumentation-gauges.t87": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-instrumentation-gauges.t88": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "related",
+      "original": "Lubricants & Chemicals"
+    },
+    "product-instrumentation-gauges.t89": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-instrumentation-gauges.t90": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "related",
+      "original": "Industrial Product Range"
+    },
+    "product-instrumentation-gauges.t91": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-instrumentation-gauges.t92": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "Header / Footer",
+      "original": "MARUTI TRADING DWC LLC"
+    },
+    "product-instrumentation-gauges.t93": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "Header / Footer",
+      "original": "INDUSTRIAL SUPPLY · IMPORT · EXPORT"
+    },
+    "product-instrumentation-gauges.t94": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "Header / Footer",
+      "original": "© 2026 MARUTI TRADING DWC LLC. All rights reserved."
+    },
+    "product-instrumentation-gauges.t95": {
+      "page": "product-instrumentation-gauges.html",
+      "group": "Header / Footer",
+      "original": "Back to home ↗"
+    },
+    "product-lubricants-chemicals.t0": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "Header / Footer",
+      "original": "BASED IN THE UAE. CONNECTED TO THE WORLD."
+    },
+    "product-lubricants-chemicals.t1": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "Header / Footer",
+      "original": "Sales1@marutidwc.com"
+    },
+    "product-lubricants-chemicals.t2": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "Header / Footer",
+      "original": "+971 55 457 7179 ↗"
+    },
+    "product-lubricants-chemicals.t3": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "Header / Footer",
+      "original": "MARUTI TRADING DWC LLC"
+    },
+    "product-lubricants-chemicals.t4": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "Header / Footer",
+      "original": "INDUSTRIAL SUPPLY · IMPORT · EXPORT"
+    },
+    "product-lubricants-chemicals.t5": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "Header / Footer",
+      "original": "☰"
+    },
+    "product-lubricants-chemicals.t6": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "Header / Footer",
+      "original": "Home"
+    },
+    "product-lubricants-chemicals.t7": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "Header / Footer",
+      "original": "About us"
+    },
+    "product-lubricants-chemicals.t8": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "Header / Footer",
+      "original": "Products"
+    },
+    "product-lubricants-chemicals.t9": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "Header / Footer",
+      "original": "Promotions"
+    },
+    "product-lubricants-chemicals.t10": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "Header / Footer",
+      "original": "Careers"
+    },
+    "product-lubricants-chemicals.t11": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "Header / Footer",
+      "original": "Contact"
+    },
+    "product-lubricants-chemicals.t12": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "Header / Footer",
+      "original": "Get a quote ↗"
+    },
+    "product-lubricants-chemicals.t13": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-hero",
+      "original": "← Back to product range"
+    },
+    "product-lubricants-chemicals.t14": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-hero",
+      "original": "MARUTI INDUSTRIAL SUPPLY"
+    },
+    "product-lubricants-chemicals.t15": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-hero",
+      "original": "Lubricants & Chemicals"
+    },
+    "product-lubricants-chemicals.t16": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-hero",
+      "original": "Care for the equipment that matters."
+    },
+    "product-lubricants-chemicals.t17": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-hero",
+      "original": "Industrial lubrication and maintenance consumables for equipment care. Share the equipment application, required grade and pack size for your enquiry."
+    },
+    "product-lubricants-chemicals.t18": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-hero",
+      "original": "Enquire on WhatsApp ↗"
+    },
+    "product-lubricants-chemicals.t19": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-hero",
+      "original": "Request a quotation ↗"
+    },
+    "product-lubricants-chemicals.t20": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-hero",
+      "original": "Category illustration · Contact us for specific products and models."
+    },
+    "product-lubricants-chemicals.t21": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "PRODUCTS & DETAILS"
+    },
+    "product-lubricants-chemicals.t22": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "Explore the "
+    },
+    "product-lubricants-chemicals.t23": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "range."
+    },
+    "product-lubricants-chemicals.t24": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "Choose a product type or send us your complete requirement."
+    },
+    "product-lubricants-chemicals.t25": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "01"
+    },
+    "product-lubricants-chemicals.t26": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "Specialty lubricants"
+    },
+    "product-lubricants-chemicals.t27": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "AeroShell Fluid 41 hydraulic fluid"
+    },
+    "product-lubricants-chemicals.t28": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "High-temperature anti-seize compounds"
+    },
+    "product-lubricants-chemicals.t29": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "Metal cutting oils"
+    },
+    "product-lubricants-chemicals.t30": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "02"
+    },
+    "product-lubricants-chemicals.t31": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "Maintenance lubrication"
+    },
+    "product-lubricants-chemicals.t32": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "Multi-purpose maintenance sprays"
+    },
+    "product-lubricants-chemicals.t33": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "Chain lubricants"
+    },
+    "product-lubricants-chemicals.t34": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "Rust preventive oils"
+    },
+    "product-lubricants-chemicals.t35": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "Penetrating oils"
+    },
+    "product-lubricants-chemicals.t36": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "Silicone sprays"
+    },
+    "product-lubricants-chemicals.t37": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "03"
+    },
+    "product-lubricants-chemicals.t38": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "Industrial oils"
+    },
+    "product-lubricants-chemicals.t39": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "Hydraulic oils"
+    },
+    "product-lubricants-chemicals.t40": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "Gear oils"
+    },
+    "product-lubricants-chemicals.t41": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "Compressor oils"
+    },
+    "product-lubricants-chemicals.t42": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "Turbine oils"
+    },
+    "product-lubricants-chemicals.t43": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "04"
+    },
+    "product-lubricants-chemicals.t44": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "Greases & supply enquiries"
+    },
+    "product-lubricants-chemicals.t45": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "Industrial greases"
+    },
+    "product-lubricants-chemicals.t46": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "Specialty oils and chemicals"
+    },
+    "product-lubricants-chemicals.t47": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-range",
+      "original": "Brand, grade and pack-size requirements"
+    },
+    "product-lubricants-chemicals.t48": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-notes",
+      "original": "APPLICATIONS"
+    },
+    "product-lubricants-chemicals.t49": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-notes",
+      "original": "Supporting "
+    },
+    "product-lubricants-chemicals.t50": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-notes",
+      "original": "your operations."
+    },
+    "product-lubricants-chemicals.t51": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-notes",
+      "original": "Equipment lubrication"
+    },
+    "product-lubricants-chemicals.t52": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-notes",
+      "original": "Mechanical maintenance"
+    },
+    "product-lubricants-chemicals.t53": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-notes",
+      "original": "Workshop requirements"
+    },
+    "product-lubricants-chemicals.t54": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-notes",
+      "original": "Industrial operations"
+    },
+    "product-lubricants-chemicals.t55": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-notes",
+      "original": "FOR A QUICKER QUOTATION"
+    },
+    "product-lubricants-chemicals.t56": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-notes",
+      "original": "Share these details with us."
+    },
+    "product-lubricants-chemicals.t57": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-notes",
+      "original": "Product type and grade"
+    },
+    "product-lubricants-chemicals.t58": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-notes",
+      "original": "Equipment application"
+    },
+    "product-lubricants-chemicals.t59": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-notes",
+      "original": "Preferred brand and pack size"
+    },
+    "product-lubricants-chemicals.t60": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-notes",
+      "original": "Quantity required"
+    },
+    "product-lubricants-chemicals.t61": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-notes",
+      "original": "Final product selection, specifications and availability are confirmed by our team against your requirement."
+    },
+    "product-lubricants-chemicals.t62": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-cta",
+      "original": "LET’S FIND WHAT YOU NEED"
+    },
+    "product-lubricants-chemicals.t63": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-cta",
+      "original": "A specific requirement?"
+    },
+    "product-lubricants-chemicals.t64": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-cta",
+      "original": "Talk to our team."
+    },
+    "product-lubricants-chemicals.t65": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "detail-cta",
+      "original": "Send your enquiry ↗"
+    },
+    "product-lubricants-chemicals.t66": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "related",
+      "original": "KEEP EXPLORING"
+    },
+    "product-lubricants-chemicals.t67": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "related",
+      "original": "More from "
+    },
+    "product-lubricants-chemicals.t68": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "related",
+      "original": "MARUTI."
+    },
+    "product-lubricants-chemicals.t69": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "related",
+      "original": "Industrial Valves"
+    },
+    "product-lubricants-chemicals.t70": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-lubricants-chemicals.t71": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "related",
+      "original": "Pipe Fittings & Flanges"
+    },
+    "product-lubricants-chemicals.t72": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-lubricants-chemicals.t73": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "related",
+      "original": "Instrumentation"
+    },
+    "product-lubricants-chemicals.t74": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-lubricants-chemicals.t75": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "related",
+      "original": "Industrial Tools"
+    },
+    "product-lubricants-chemicals.t76": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-lubricants-chemicals.t77": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "related",
+      "original": "Equipment & Maintenance"
+    },
+    "product-lubricants-chemicals.t78": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-lubricants-chemicals.t79": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "related",
+      "original": "Industrial Product Range"
+    },
+    "product-lubricants-chemicals.t80": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-lubricants-chemicals.t81": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "Header / Footer",
+      "original": "MARUTI TRADING DWC LLC"
+    },
+    "product-lubricants-chemicals.t82": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "Header / Footer",
+      "original": "INDUSTRIAL SUPPLY · IMPORT · EXPORT"
+    },
+    "product-lubricants-chemicals.t83": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "Header / Footer",
+      "original": "© 2026 MARUTI TRADING DWC LLC. All rights reserved."
+    },
+    "product-lubricants-chemicals.t84": {
+      "page": "product-lubricants-chemicals.html",
+      "group": "Header / Footer",
+      "original": "Back to home ↗"
+    },
+    "product-pipe-fittings-flanges.t0": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "Header / Footer",
+      "original": "BASED IN THE UAE. CONNECTED TO THE WORLD."
+    },
+    "product-pipe-fittings-flanges.t1": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "Header / Footer",
+      "original": "Sales1@marutidwc.com"
+    },
+    "product-pipe-fittings-flanges.t2": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "Header / Footer",
+      "original": "+971 55 457 7179 ↗"
+    },
+    "product-pipe-fittings-flanges.t3": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "Header / Footer",
+      "original": "MARUTI TRADING DWC LLC"
+    },
+    "product-pipe-fittings-flanges.t4": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "Header / Footer",
+      "original": "INDUSTRIAL SUPPLY · IMPORT · EXPORT"
+    },
+    "product-pipe-fittings-flanges.t5": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "Header / Footer",
+      "original": "☰"
+    },
+    "product-pipe-fittings-flanges.t6": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "Header / Footer",
+      "original": "Home"
+    },
+    "product-pipe-fittings-flanges.t7": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "Header / Footer",
+      "original": "About us"
+    },
+    "product-pipe-fittings-flanges.t8": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "Header / Footer",
+      "original": "Products"
+    },
+    "product-pipe-fittings-flanges.t9": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "Header / Footer",
+      "original": "Promotions"
+    },
+    "product-pipe-fittings-flanges.t10": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "Header / Footer",
+      "original": "Careers"
+    },
+    "product-pipe-fittings-flanges.t11": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "Header / Footer",
+      "original": "Contact"
+    },
+    "product-pipe-fittings-flanges.t12": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "Header / Footer",
+      "original": "Get a quote ↗"
+    },
+    "product-pipe-fittings-flanges.t13": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-hero",
+      "original": "← Back to product range"
+    },
+    "product-pipe-fittings-flanges.t14": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-hero",
+      "original": "MARUTI INDUSTRIAL SUPPLY"
+    },
+    "product-pipe-fittings-flanges.t15": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-hero",
+      "original": "Pipe Fittings & Flanges"
+    },
+    "product-pipe-fittings-flanges.t16": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-hero",
+      "original": "The right connection for every project."
+    },
+    "product-pipe-fittings-flanges.t17": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-hero",
+      "original": "A range of fittings and flanges for industrial piping connections. Specify dimensions, materials and applicable standards to help our team match your requirement."
+    },
+    "product-pipe-fittings-flanges.t18": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-hero",
+      "original": "Enquire on WhatsApp ↗"
+    },
+    "product-pipe-fittings-flanges.t19": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-hero",
+      "original": "Request a quotation ↗"
+    },
+    "product-pipe-fittings-flanges.t20": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-hero",
+      "original": "Category illustration · Contact us for specific products and models."
+    },
+    "product-pipe-fittings-flanges.t21": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "PRODUCTS & DETAILS"
+    },
+    "product-pipe-fittings-flanges.t22": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Explore the "
+    },
+    "product-pipe-fittings-flanges.t23": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "range."
+    },
+    "product-pipe-fittings-flanges.t24": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Choose a product type or send us your complete requirement."
+    },
+    "product-pipe-fittings-flanges.t25": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "01"
+    },
+    "product-pipe-fittings-flanges.t26": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Pipe fittings & connectors"
+    },
+    "product-pipe-fittings-flanges.t27": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Stainless steel elbows"
+    },
+    "product-pipe-fittings-flanges.t28": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Stainless steel tees"
+    },
+    "product-pipe-fittings-flanges.t29": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "GI pipe couplings"
+    },
+    "product-pipe-fittings-flanges.t30": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Brass unions"
+    },
+    "product-pipe-fittings-flanges.t31": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Reducing bushes"
+    },
+    "product-pipe-fittings-flanges.t32": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Stainless steel union connectors"
+    },
+    "product-pipe-fittings-flanges.t33": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Hose connectors"
+    },
+    "product-pipe-fittings-flanges.t34": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Hex adaptors"
+    },
+    "product-pipe-fittings-flanges.t35": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "02"
+    },
+    "product-pipe-fittings-flanges.t36": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Flanges"
+    },
+    "product-pipe-fittings-flanges.t37": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Slip-on flanges"
+    },
+    "product-pipe-fittings-flanges.t38": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Weld neck flanges"
+    },
+    "product-pipe-fittings-flanges.t39": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Blind flanges"
+    },
+    "product-pipe-fittings-flanges.t40": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "03"
+    },
+    "product-pipe-fittings-flanges.t41": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Strainers & flow accessories"
+    },
+    "product-pipe-fittings-flanges.t42": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Cast iron Y-strainers"
+    },
+    "product-pipe-fittings-flanges.t43": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Ductile iron Y-strainers"
+    },
+    "product-pipe-fittings-flanges.t44": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Stainless steel Y-strainers"
+    },
+    "product-pipe-fittings-flanges.t45": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Basket strainers"
+    },
+    "product-pipe-fittings-flanges.t46": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Simplex strainers"
+    },
+    "product-pipe-fittings-flanges.t47": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Double-window sight flow indicators"
+    },
+    "product-pipe-fittings-flanges.t48": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "04"
+    },
+    "product-pipe-fittings-flanges.t49": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Threaded fittings"
+    },
+    "product-pipe-fittings-flanges.t50": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Male-female unions"
+    },
+    "product-pipe-fittings-flanges.t51": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Reducing unions"
+    },
+    "product-pipe-fittings-flanges.t52": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Half couplings"
+    },
+    "product-pipe-fittings-flanges.t53": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Full couplings"
+    },
+    "product-pipe-fittings-flanges.t54": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Threaded pipe nipples"
+    },
+    "product-pipe-fittings-flanges.t55": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Long pipe nipples"
+    },
+    "product-pipe-fittings-flanges.t56": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Hex plugs"
+    },
+    "product-pipe-fittings-flanges.t57": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "GI pipe caps"
+    },
+    "product-pipe-fittings-flanges.t58": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "GI reducing nipples"
+    },
+    "product-pipe-fittings-flanges.t59": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "GI bushings"
+    },
+    "product-pipe-fittings-flanges.t60": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "05"
+    },
+    "product-pipe-fittings-flanges.t61": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Butt & socket weld fittings"
+    },
+    "product-pipe-fittings-flanges.t62": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Butt weld 90° elbows"
+    },
+    "product-pipe-fittings-flanges.t63": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Butt weld tees"
+    },
+    "product-pipe-fittings-flanges.t64": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Concentric reducers"
+    },
+    "product-pipe-fittings-flanges.t65": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Butt weld caps"
+    },
+    "product-pipe-fittings-flanges.t66": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Socket weld couplings"
+    },
+    "product-pipe-fittings-flanges.t67": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Socket weld unions"
+    },
+    "product-pipe-fittings-flanges.t68": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Threaded reducing bushes"
+    },
+    "product-pipe-fittings-flanges.t69": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Threaded crosses"
+    },
+    "product-pipe-fittings-flanges.t70": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "06"
+    },
+    "product-pipe-fittings-flanges.t71": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Hose & pipe accessories"
+    },
+    "product-pipe-fittings-flanges.t72": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Hose pipes and assemblies"
+    },
+    "product-pipe-fittings-flanges.t73": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Stainless steel hose clamps"
+    },
+    "product-pipe-fittings-flanges.t74": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Barbed hose tails"
+    },
+    "product-pipe-fittings-flanges.t75": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Roller-type pipe hangers"
+    },
+    "product-pipe-fittings-flanges.t76": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Metallic expansion bellows"
+    },
+    "product-pipe-fittings-flanges.t77": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Stainless steel flexible braided hoses"
+    },
+    "product-pipe-fittings-flanges.t78": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "07"
+    },
+    "product-pipe-fittings-flanges.t79": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Couplings & sanitary connections"
+    },
+    "product-pipe-fittings-flanges.t80": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Camlock type A adaptors"
+    },
+    "product-pipe-fittings-flanges.t81": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Camlock type C couplers"
+    },
+    "product-pipe-fittings-flanges.t82": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Quick-release couplings"
+    },
+    "product-pipe-fittings-flanges.t83": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Hydraulic quick couplers"
+    },
+    "product-pipe-fittings-flanges.t84": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Tri-clamp ferrules"
+    },
+    "product-pipe-fittings-flanges.t85": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Single-pin tri-clamps"
+    },
+    "product-pipe-fittings-flanges.t86": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "08"
+    },
+    "product-pipe-fittings-flanges.t87": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Hardware & support items"
+    },
+    "product-pipe-fittings-flanges.t88": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Hex nuts"
+    },
+    "product-pipe-fittings-flanges.t89": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Hex bolts"
+    },
+    "product-pipe-fittings-flanges.t90": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "All-thread stud bolts"
+    },
+    "product-pipe-fittings-flanges.t91": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Lock washers"
+    },
+    "product-pipe-fittings-flanges.t92": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-range",
+      "original": "Stainless steel round bars"
+    },
+    "product-pipe-fittings-flanges.t93": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-notes",
+      "original": "APPLICATIONS"
+    },
+    "product-pipe-fittings-flanges.t94": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-notes",
+      "original": "Supporting "
+    },
+    "product-pipe-fittings-flanges.t95": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-notes",
+      "original": "your operations."
+    },
+    "product-pipe-fittings-flanges.t96": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-notes",
+      "original": "Pipework installation"
+    },
+    "product-pipe-fittings-flanges.t97": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-notes",
+      "original": "Process piping"
+    },
+    "product-pipe-fittings-flanges.t98": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-notes",
+      "original": "Maintenance and replacement"
+    },
+    "product-pipe-fittings-flanges.t99": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-notes",
+      "original": "Project supply"
+    },
+    "product-pipe-fittings-flanges.t100": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-notes",
+      "original": "FOR A QUICKER QUOTATION"
+    },
+    "product-pipe-fittings-flanges.t101": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-notes",
+      "original": "Share these details with us."
+    },
+    "product-pipe-fittings-flanges.t102": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-notes",
+      "original": "Fitting or flange type"
+    },
+    "product-pipe-fittings-flanges.t103": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-notes",
+      "original": "Size, schedule and pressure class"
+    },
+    "product-pipe-fittings-flanges.t104": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-notes",
+      "original": "Material and standard"
+    },
+    "product-pipe-fittings-flanges.t105": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-notes",
+      "original": "Quantity and delivery location"
+    },
+    "product-pipe-fittings-flanges.t106": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-notes",
+      "original": "Final product selection, specifications and availability are confirmed by our team against your requirement."
+    },
+    "product-pipe-fittings-flanges.t107": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-cta",
+      "original": "LET’S FIND WHAT YOU NEED"
+    },
+    "product-pipe-fittings-flanges.t108": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-cta",
+      "original": "A specific requirement?"
+    },
+    "product-pipe-fittings-flanges.t109": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-cta",
+      "original": "Talk to our team."
+    },
+    "product-pipe-fittings-flanges.t110": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "detail-cta",
+      "original": "Send your enquiry ↗"
+    },
+    "product-pipe-fittings-flanges.t111": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "related",
+      "original": "KEEP EXPLORING"
+    },
+    "product-pipe-fittings-flanges.t112": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "related",
+      "original": "More from "
+    },
+    "product-pipe-fittings-flanges.t113": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "related",
+      "original": "MARUTI."
+    },
+    "product-pipe-fittings-flanges.t114": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "related",
+      "original": "Industrial Valves"
+    },
+    "product-pipe-fittings-flanges.t115": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-pipe-fittings-flanges.t116": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "related",
+      "original": "Instrumentation"
+    },
+    "product-pipe-fittings-flanges.t117": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-pipe-fittings-flanges.t118": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "related",
+      "original": "Industrial Tools"
+    },
+    "product-pipe-fittings-flanges.t119": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-pipe-fittings-flanges.t120": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "related",
+      "original": "Equipment & Maintenance"
+    },
+    "product-pipe-fittings-flanges.t121": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-pipe-fittings-flanges.t122": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "related",
+      "original": "Lubricants & Chemicals"
+    },
+    "product-pipe-fittings-flanges.t123": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-pipe-fittings-flanges.t124": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "related",
+      "original": "Industrial Product Range"
+    },
+    "product-pipe-fittings-flanges.t125": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "related",
+      "original": "↗"
+    },
+    "product-pipe-fittings-flanges.t126": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "Header / Footer",
+      "original": "MARUTI TRADING DWC LLC"
+    },
+    "product-pipe-fittings-flanges.t127": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "Header / Footer",
+      "original": "INDUSTRIAL SUPPLY · IMPORT · EXPORT"
+    },
+    "product-pipe-fittings-flanges.t128": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "Header / Footer",
+      "original": "© 2026 MARUTI TRADING DWC LLC. All rights reserved."
+    },
+    "product-pipe-fittings-flanges.t129": {
+      "page": "product-pipe-fittings-flanges.html",
+      "group": "Header / Footer",
+      "original": "Back to home ↗"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+'use strict';
+window.MarutiCMS={ready:(async()=>{
+ const cfg=window.MARUTI_CMS_CONFIG||{};if(!cfg.url||!cfg.publishableKey)return;
+ const page=(location.pathname.split('/').pop()||'index.html').replace(/\.html$/,'');let snapshot;
+ if(new URLSearchParams(location.search).get('cms-preview')==='1'&&window.parent!==window){
+  snapshot=await new Promise(resolve=>{const timer=setTimeout(()=>{window.removeEventListener('message',receive);resolve(null);},5000);function receive(e){if(e.origin!==location.origin||e.source!==window.parent||e.data?.type!=='maruti-preview')return;clearTimeout(timer);window.removeEventListener('message',receive);resolve(e.data.snapshot);}window.addEventListener('message',receive);window.parent.postMessage({type:'maruti-preview-ready'},location.origin);});
+ }else{
+  try{const r=await fetch(cfg.url.replace(/\/$/,'')+'/rest/v1/rpc/cms_public_snapshot',{method:'POST',headers:{apikey:cfg.publishableKey,'Content-Type':'application/json'},body:'{}',signal:AbortSignal.timeout(3500),cache:'no-store'});if(r.ok)snapshot=await r.json();}catch{/* The approved original HTML remains usable if the service is unavailable. */}
+ }
+ if(!snapshot)return;try{window.MarutiContent.apply(document,snapshot,page,cfg.url);}catch(e){console.warn('MARUTI content could not be loaded. Original content retained.',e.message);return;}
+ const id=snapshot.analytics?.measurementId;if(!id||window.parent!==window)return;
+ // Tracking starts only after an explicit visitor choice; the site remains usable without it.
+ function startAnalytics(){window.dataLayer=window.dataLayer||[];window.gtag=function(){dataLayer.push(arguments);};gtag('js',new Date());gtag('config',id);const script=document.createElement('script');script.async=true;script.src='https://www.googletagmanager.com/gtag/js?id='+encodeURIComponent(id);document.head.appendChild(script);document.addEventListener('click',e=>{const a=e.target.closest('a,button');if(!a)return;const h=a.getAttribute('href')||'';const event=h.includes('wa.me/')?'whatsapp_click':h.startsWith('mailto:')?'email_click':a.closest('.catalog-tools')?'catalog_download':a.classList.contains('catalog-entry')?'catalog_open':null;if(event)gtag('event',event,{page_path:location.pathname});});}
+ let choice;try{choice=localStorage.getItem('maruti-analytics-consent');}catch{}if(choice==='yes')startAnalytics();else if(choice!=='no'){
+  const banner=document.createElement('aside');banner.setAttribute('aria-label','Website analytics choice');banner.style.cssText='position:fixed;bottom:20px;left:20px;right:85px;max-width:560px;padding:18px;background:#fff;color:#10253b;box-shadow:0 8px 35px #0003;z-index:2000;border-radius:10px;font:14px/1.5 sans-serif';const text=document.createElement('p');text.textContent='Allow Google Analytics to measure visits, approximate location and page interactions? Your choice does not affect use of this website.';banner.append(text);for(const [label,value]of[['Allow analytics','yes'],['No thanks','no']]){const b=document.createElement('button');b.textContent=label;b.style.cssText='padding:9px 12px;margin:8px 8px 0 0;border:1px solid #10253b;border-radius:5px;background:#10253b;color:#fff;cursor:pointer';b.onclick=()=>{try{localStorage.setItem('maruti-analytics-consent',value);}catch{}banner.remove();if(value==='yes')startAnalytics();};banner.append(b);}document.body.append(banner);
+ }
+})()};
